@@ -2372,11 +2372,6 @@
       </SOURCES>
     </library>
     <library name="raven" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.ravenjs.com_3.3.0_raven.js" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.ravenjs.com_3.3.0_raven.js" />
       </CLASSES>
