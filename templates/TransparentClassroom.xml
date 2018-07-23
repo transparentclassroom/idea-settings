@@ -353,4 +353,10 @@
       <option name="RUBY" value="true" />
     </context>
   </template>
+  <template name="cct" value="concat(content_tag($FIELD$)$END$)" description="concat(content_tag(..." toReformat="false" toShortenFQNames="true">
+    <variable name="FIELD" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="RUBY" value="true" />
+    </context>
+  </template>
 </templateSet>
