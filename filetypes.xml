@@ -9,7 +9,6 @@
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="data_sync" type="PLAIN_TEXT" />
       <mapping pattern="Aptfile" type="PLAIN_TEXT" />
-      <mapping pattern="control" type="PLAIN_TEXT" />
       <mapping pattern="go" type="PLAIN_TEXT" />
       <mapping pattern="webpack" type="PLAIN_TEXT" />
       <mapping pattern="i18n_migrate" type="PLAIN_TEXT" />
@@ -19,17 +18,18 @@
       <mapping pattern="standardize-paths" type="PLAIN_TEXT" />
       <mapping pattern="email_and_pay_invoices" type="PLAIN_TEXT" />
       <mapping pattern="restore_db" type="PLAIN_TEXT" />
+      <mapping pattern="TODO" type="PLAIN_TEXT" />
       <mapping pattern=".ruby-version" type="PLAIN_TEXT" />
       <mapping pattern="schedule_find_sms_errors" type="PLAIN_TEXT" />
       <mapping pattern="backup_store" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern=".gemset" type="PLAIN_TEXT" />
       <mapping pattern="remote_script" type="PLAIN_TEXT" />
-      <mapping pattern="makefile" type="PLAIN_TEXT" />
       <mapping pattern="pull_db" type="PLAIN_TEXT" />
       <mapping pattern="rsip" type="PLAIN_TEXT" />
       <mapping pattern="webpack_dev_server_on_port" type="PLAIN_TEXT" />
       <mapping pattern="run_invoices" type="PLAIN_TEXT" />
+      <mapping pattern="webpack_dev_server" type="PLAIN_TEXT" />
       <mapping pattern=".rspec_parallel" type="PLAIN_TEXT" />
       <mapping pattern="little_oak" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
@@ -38,8 +38,9 @@
       <mapping pattern="CHANGELOG" type="PLAIN_TEXT" />
       <mapping pattern="push_staging" type="PLAIN_TEXT" />
       <mapping pattern="schedule_upload_photos_via_s3" type="PLAIN_TEXT" />
-      <mapping pattern="webpack_dev_server" type="PLAIN_TEXT" />
+      <mapping pattern="control" type="PLAIN_TEXT" />
       <mapping pattern="native_dev_server" type="PLAIN_TEXT" />
+      <mapping pattern="makefile" type="PLAIN_TEXT" />
       <mapping pattern="pull_specific_db" type="PLAIN_TEXT" />
       <mapping pattern="download_missing_pictures" type="PLAIN_TEXT" />
       <mapping pattern="run_frontend_tests_forever" type="PLAIN_TEXT" />
@@ -48,7 +49,6 @@
       <mapping pattern="wpip" type="PLAIN_TEXT" />
       <mapping pattern="report_email_stats" type="PLAIN_TEXT" />
       <mapping pattern="gulpfile" type="PLAIN_TEXT" />
-      <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="dump" type="PLAIN_TEXT" />
       <mapping ext="travis" type="PLAIN_TEXT" />
       <mapping ext="textile" type="PLAIN_TEXT" />
