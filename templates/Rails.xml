@@ -1,0 +1,7 @@
+<templateSet group="Rails">
+  <template name="end" value="&lt;% end %&gt;" shortcut="ENTER" description="&lt;% end %&gt;" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="RHTML" value="true" />
+    </context>
+  </template>
+</templateSet>

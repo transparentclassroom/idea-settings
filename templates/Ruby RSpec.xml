@@ -1,0 +1,23 @@
+<templateSet group="Ruby RSpec">
+  <template name="des" value="describe $SYSTEM_UNDER_TEST$ do&#10;  $END$&#10;end" description="desc" toReformat="false" toShortenFQNames="true">
+    <variable name="SYSTEM_UNDER_TEST" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="COMPLETION" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JAVA_COMMENT" value="false" />
+      <option name="JAVA_STRING" value="false" />
+      <option name="JSP" value="false" />
+      <option name="RUBY" value="true" />
+    </context>
+  </template>
+  <template name="it" value="it 'should $DO_SOME_COOL_STUFF$' do&#10;  $END$&#10;end" description="it" toReformat="false" toShortenFQNames="true">
+    <variable name="DO_SOME_COOL_STUFF" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="COMPLETION" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JAVA_COMMENT" value="false" />
+      <option name="JAVA_STRING" value="false" />
+      <option name="JSP" value="false" />
+    </context>
+  </template>
+</templateSet>
