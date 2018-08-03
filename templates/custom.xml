@@ -1,7 +1,0 @@
-<templateSet group="custom">
-  <template name="hd" value="&lt;&lt;-TEXT&#10;$END$&#10;TEXT" description="heredoc" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="RUBY" value="true" />
-    </context>
-  </template>
-</templateSet>
