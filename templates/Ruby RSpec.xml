@@ -1,5 +1,5 @@
 <templateSet group="Ruby RSpec">
-  <template name="des" value="describe $SYSTEM_UNDER_TEST$ do&#10;  $END$&#10;end" description="desc" toReformat="false" toShortenFQNames="true">
+  <template name="desc" value="describe $SYSTEM_UNDER_TEST$ do&#10;  $END$&#10;end" description="desc" toReformat="false" toShortenFQNames="true">
     <variable name="SYSTEM_UNDER_TEST" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="COMPLETION" value="false" />
