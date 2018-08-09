@@ -9,4 +9,10 @@
       <option name="JSP" value="false" />
     </context>
   </template>
+  <template name="desc" value="describe '$FOO$' do&#10;  $END$&#10;end" description="describe block" toReformat="false" toShortenFQNames="true">
+    <variable name="FOO" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="RUBY" value="true" />
+    </context>
+  </template>
 </templateSet>
