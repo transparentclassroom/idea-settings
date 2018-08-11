@@ -34,10 +34,6 @@
     <variable name="VARIABLE_1" expression="" defaultValue="context" alwaysStopAt="true" />
     <context />
   </template>
-  <template name="desc" value="require File.expand_path(File.dirname(__FILE__) + '/../spec_helper')&#10;&#10;describe $VARIABLE_1$ do&#10;  $END$&#10;end" description="describe (Controller)" toReformat="true" toShortenFQNames="true" deactivated="true">
-    <variable name="VARIABLE_1" expression="" defaultValue="controller" alwaysStopAt="true" />
-    <context />
-  </template>
   <template name="desrc" value="describe $VARIABLE_1$, &quot;$VARIABLE_2$ $VARIABLE_3$$VARIABLE_4$&quot; do&#10;  $END$&#10;end" description="describe (RESTful Controller)" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="VARIABLE_1" expression="" defaultValue="controller" alwaysStopAt="true" />
     <variable name="VARIABLE_2" expression="" defaultValue="GET|POST|PUT|DELETE" alwaysStopAt="true" />
