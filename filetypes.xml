@@ -3,6 +3,7 @@
     <extensionMap>
       <removed_mapping ext="jsx" approved="true" type="JSX Harmony" />
       <mapping ext="jsx" type="JavaScript" />
+      <mapping pattern=".tc_aws_creds" type="PLAIN_TEXT" />
       <mapping pattern="worker_start" type="PLAIN_TEXT" />
       <mapping pattern="rdbr" type="PLAIN_TEXT" />
       <mapping pattern=".jerstuff" type="PLAIN_TEXT" />
