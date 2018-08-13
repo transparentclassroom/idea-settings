@@ -15,4 +15,10 @@
       <option name="RUBY" value="true" />
     </context>
   </template>
+  <template name="ex=" value="expect($foo$).to eq$END$" description="expect" toReformat="false" toShortenFQNames="true">
+    <variable name="foo" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="RUBY" value="true" />
+    </context>
+  </template>
 </templateSet>
