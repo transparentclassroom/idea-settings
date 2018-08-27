@@ -1362,6 +1362,27 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/googleauth-0.6.2/spec" />
       </excluded>
     </library>
+    <library name="graphiql-rails (v1.4.11, RVM: ruby-2.4.1 [transparentclassroom]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/graphiql-rails-1.4.11/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/graphiql-rails-1.4.11/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/graphiql-rails-1.4.11/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/graphiql-rails-1.4.11/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/graphiql-rails-1.4.11/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/graphiql-rails-1.4.11/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/graphiql-rails-1.4.11/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/graphiql-rails-1.4.11/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/graphiql-rails-1.4.11/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/graphiql-rails-1.4.11/config" />
+      </excluded>
+    </library>
     <library name="graphql (v1.8.7, RVM: ruby-2.4.1 [transparentclassroom]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
