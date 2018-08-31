@@ -1,68 +1,16 @@
 <application>
   <component name="FileTypeManager" version="17">
-    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
-      <mapping pattern=".slugignore" type="PLAIN_TEXT" />
-      <mapping pattern=".i18n_migrations" type="PLAIN_TEXT" />
-      <mapping pattern="export_school" type="PLAIN_TEXT" />
-      <mapping pattern="pull_db_in_parts" type="PLAIN_TEXT" />
-      <mapping pattern="README" type="PLAIN_TEXT" />
-      <mapping pattern="data_sync" type="PLAIN_TEXT" />
-      <mapping pattern="Aptfile" type="PLAIN_TEXT" />
-      <mapping pattern="control" type="PLAIN_TEXT" />
-      <mapping pattern="go" type="PLAIN_TEXT" />
-      <mapping pattern="webpack" type="PLAIN_TEXT" />
-      <mapping pattern="i18n_migrate" type="PLAIN_TEXT" />
-      <mapping pattern="test_watch" type="PLAIN_TEXT" />
-      <mapping pattern="db_test_create_views" type="PLAIN_TEXT" />
-      <mapping pattern="upload_backup" type="PLAIN_TEXT" />
-      <mapping pattern="standardize-paths" type="PLAIN_TEXT" />
-      <mapping pattern="email_and_pay_invoices" type="PLAIN_TEXT" />
-      <mapping pattern="restore_db" type="PLAIN_TEXT" />
-      <mapping pattern=".ruby-version" type="PLAIN_TEXT" />
-      <mapping pattern="schedule_find_sms_errors" type="PLAIN_TEXT" />
-      <mapping pattern="backup_store" type="PLAIN_TEXT" />
-      <mapping pattern="Procfile" type="PLAIN_TEXT" />
-      <mapping pattern=".gemset" type="PLAIN_TEXT" />
-      <mapping pattern="remote_script" type="PLAIN_TEXT" />
-      <mapping pattern="makefile" type="PLAIN_TEXT" />
-      <mapping pattern="pull_db" type="PLAIN_TEXT" />
-      <mapping pattern="rsip" type="PLAIN_TEXT" />
-      <mapping pattern="webpack_dev_server_on_port" type="PLAIN_TEXT" />
-      <mapping pattern="run_invoices" type="PLAIN_TEXT" />
-      <mapping pattern=".rspec_parallel" type="PLAIN_TEXT" />
-      <mapping pattern="little_oak" type="PLAIN_TEXT" />
-      <mapping pattern="test" type="PLAIN_TEXT" />
-      <mapping pattern="sync_es" type="PLAIN_TEXT" />
-      <mapping pattern="schedule_upload_photos_via_email" type="PLAIN_TEXT" />
-      <mapping pattern="CHANGELOG" type="PLAIN_TEXT" />
-      <mapping pattern="push_staging" type="PLAIN_TEXT" />
-      <mapping pattern="schedule_upload_photos_via_s3" type="PLAIN_TEXT" />
-      <mapping pattern="webpack_dev_server" type="PLAIN_TEXT" />
-      <mapping pattern="native_dev_server" type="PLAIN_TEXT" />
-      <mapping pattern="pull_specific_db" type="PLAIN_TEXT" />
-      <mapping pattern="download_missing_pictures" type="PLAIN_TEXT" />
-      <mapping pattern="run_frontend_tests_forever" type="PLAIN_TEXT" />
-      <mapping pattern="im" type="PLAIN_TEXT" />
-      <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
-      <mapping pattern="wpip" type="PLAIN_TEXT" />
-      <mapping pattern="report_email_stats" type="PLAIN_TEXT" />
-      <mapping pattern="gulpfile" type="PLAIN_TEXT" />
-      <mapping ext="csv" type="PLAIN_TEXT" />
-      <mapping ext="dump" type="PLAIN_TEXT" />
-      <mapping ext="travis" type="PLAIN_TEXT" />
-      <mapping ext="textile" type="PLAIN_TEXT" />
-      <mapping pattern="update_greenhouse2" type="Ruby" />
-      <mapping pattern="autotranslate" type="Ruby" />
-      <mapping pattern="count" type="Ruby" />
-      <mapping pattern="add_headers" type="Ruby" />
-      <mapping pattern="pivot_by" type="Ruby" />
-      <mapping pattern="json_to_tsv" type="Ruby" />
-      <mapping pattern="reject" type="Ruby" />
-      <mapping pattern="expand_json" type="Ruby" />
-      <mapping pattern="pivot_by_uniq_emails" type="Ruby" />
-      <mapping pattern="clean_errors" type="Ruby" />
-      <mapping pattern="generate_dependencies" type="Ruby" />
+      <removed_mapping ext="jsx" approved="true" type="JSX Harmony" />
+      <mapping ext="jsx" type="JavaScript" />
+      <mapping pattern=".tc_aws_creds" type="PLAIN_TEXT" />
+      <mapping pattern="worker_start" type="PLAIN_TEXT" />
+      <mapping pattern="rdbr" type="PLAIN_TEXT" />
+      <mapping pattern=".jerstuff" type="PLAIN_TEXT" />
+      <mapping pattern="rdbm" type="PLAIN_TEXT" />
+      <mapping pattern=".babelrc-mocha" type="PLAIN_TEXT" />
+      <mapping pattern=".creds" type="PLAIN_TEXT" />
+      <mapping pattern=".babelrc-jest" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>

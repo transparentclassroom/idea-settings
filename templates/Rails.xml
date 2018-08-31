@@ -1,18 +1,5 @@
 <templateSet group="Rails">
-  <template name="f" value="&lt;%= f.$END$ %&gt;" description="form thing" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="RHTML" value="true" />
-    </context>
-  </template>
-  <template name="ha" value="$CLASS$.human_attribute_name(:$ATTRIBUTE$)" description="User.human_attribute_name" toReformat="false" toShortenFQNames="true">
-    <variable name="CLASS" expression="classNameComplete()" defaultValue="" alwaysStopAt="true" />
-    <variable name="ATTRIBUTE" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="RUBY" value="true" />
-    </context>
-  </template>
-  <template name="tour" value="title: &quot;&lt;%= t('.tour._$NUM$.title') %&gt;&quot;,&#10;content: &quot;&lt;%= t('.tour._$NUM$.content') %&gt;&quot;&#10;" description="tour lines" toReformat="false" toShortenFQNames="true">
-    <variable name="NUM" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="end" value="&lt;% end %&gt;" shortcut="ENTER" description="&lt;% end %&gt;" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="RHTML" value="true" />
     </context>

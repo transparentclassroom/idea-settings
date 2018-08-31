@@ -1,8 +1,4 @@
 <templateSet group="TextMate RSpec">
-  <template name="des" value="describe '$VARIABLE_1$' do&#10;  $END$&#10;end" description="describe (String)" toReformat="true" toShortenFQNames="true" deactivated="true">
-    <variable name="VARIABLE_1" expression="" defaultValue="subject" alwaysStopAt="true" />
-    <context />
-  </template>
   <template name="anr" value="and_raise($VARIABLE_1$)" description="and_raise" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="VARIABLE_1" expression="" defaultValue="exception" alwaysStopAt="true" />
     <context />
@@ -38,15 +34,15 @@
     <variable name="VARIABLE_1" expression="" defaultValue="context" alwaysStopAt="true" />
     <context />
   </template>
-  <template name="desc" value="require File.expand_path(File.dirname(__FILE__) + '/../spec_helper')&#10;&#10;describe $VARIABLE_1$ do&#10;  $END$&#10;end" description="describe (Controller)" toReformat="true" toShortenFQNames="true" deactivated="true">
-    <variable name="VARIABLE_1" expression="" defaultValue="controller" alwaysStopAt="true" />
-    <context />
-  </template>
   <template name="desrc" value="describe $VARIABLE_1$, &quot;$VARIABLE_2$ $VARIABLE_3$$VARIABLE_4$&quot; do&#10;  $END$&#10;end" description="describe (RESTful Controller)" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="VARIABLE_1" expression="" defaultValue="controller" alwaysStopAt="true" />
     <variable name="VARIABLE_2" expression="" defaultValue="GET|POST|PUT|DELETE" alwaysStopAt="true" />
     <variable name="VARIABLE_3" expression="" defaultValue="/some/path" alwaysStopAt="true" />
     <variable name="VARIABLE_4" expression="" defaultValue="with some parameters" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="des" value="describe &quot;$VARIABLE_1$&quot; do&#10;  $END$&#10;end" description="describe (String)" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <variable name="VARIABLE_1" expression="" defaultValue="subject" alwaysStopAt="true" />
     <context />
   </template>
   <template name="dest" value="describe $VARIABLE_1$ do&#10;  $END$&#10;end" description="describe (type)" toReformat="true" toShortenFQNames="true" deactivated="true">

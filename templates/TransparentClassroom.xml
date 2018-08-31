@@ -56,9 +56,10 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="jest" value="// @flow&#10;import type { ElementProps } from 'react'&#10;import { $BAR$ } from '../$FOO$'&#10;import { setupWrapper } from 'test_helpers/react_test_helpers'&#10;&#10;// don't put stubs in here! They won't reset&#10;const defaultProps: $Shape&lt;ElementProps&lt;typeof $BAR$&gt;&gt; = {}&#10;&#10;const wrap = setupWrapper($BAR$, defaultProps)&#10;&#10;describe('$BAR$', () =&gt; {&#10;  it('should render', () =&gt; {&#10;    const { wrapper } = wrap()&#10;    expect(wrapper.exists()).toEqual(true)&#10;  })&#10;})&#10;" description="Jest: testing template" toReformat="true" toShortenFQNames="true">
+  <template name="jest" value="// @flow&#10;import type { ElementProps } from 'react'&#10;import sinon from 'sinon'&#10;import { $BAR$ } from '../$FOO$'&#10;import { setupMount } from 'test_helpers/react_test_helpers'&#10;&#10;const defaultProps = (): $Shape&lt;ElementProps&lt;typeof $BAR$&gt;&gt; =&gt; ({})&#10;&#10;const wrap = setupMount($BAR$, defaultProps)&#10;&#10;describe('$BAZ$', () =&gt; {&#10;  it('should do something', () =&gt; {&#10;    const w = wrap()&#10;    console.log(w.debug())$END$&#10;  })&#10;})&#10;" description="Jest: testing template" toReformat="true" toShortenFQNames="true">
     <variable name="FOO" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="BAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="BAZ" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
@@ -69,7 +70,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="connectredux" value="import { connect } from 'react-redux'&#10;&#10;const mapStateToProps = (state, ownProps) =&gt; {&#10;  return {}&#10;}&#10;&#10;export const $BAR$ = connect(mapStateToProps)($FOO$)" description="Redux: connector stuff" toReformat="true" toShortenFQNames="true">
+  <template name="connectredux" value="import { connect } from 'react-redux'&#10;import type { GlobalStateT } from 'shared/types'&#10;&#10;const mapStateToProps = (state: GlobalStateT, ownProps) =&gt; {&#10;  return {}&#10;}&#10;&#10;export const $BAR$ = connect(mapStateToProps)($FOO$)" description="Redux: connector stuff" toReformat="true" toShortenFQNames="true">
     <variable name="BAR" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="FOO" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
@@ -242,7 +243,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="ts" value="type StateT = {&#10;  $END$&#10;}" description="React: type State" toReformat="false" toShortenFQNames="true">
+  <template name="tys" value="type StateT = {&#10;  $END$&#10;}" description="React: type State" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
@@ -265,7 +266,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="tp" value="type PropsT = {&#10;  $END$&#10;}" description="React: type props" toReformat="false" toShortenFQNames="true">
+  <template name="typ" value="type PropsT = {&#10;  $END$&#10;}" description="React: type props" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
@@ -280,12 +281,12 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="dw" value="console.log(wrapper.debug())" description="test: debug wrapper" toReformat="false" toShortenFQNames="true">
+  <template name="dw" value="console.log(w.debug())" description="test: debug wrapper" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="dt" value="data-test=&quot;$END$&quot;" description="JSX: data-test" toReformat="false" toShortenFQNames="true">
+  <template name="dt" value="data-test=&quot;dt-$END$&quot;" description="JSX: data-test" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
@@ -334,7 +335,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="factory" value="export const new$foo$ = (&#10;  id: IdT,&#10;  options?: $Shape&lt;$bar$&gt;,&#10;): $bar$ =&gt; {&#10;  const defaults: $bar$ = {&#10;    id,&#10;  }&#10;  return { ...defaults, ...options }&#10;}" description="new factory" toReformat="false" toShortenFQNames="true">
+  <template name="factory" value="export const new$foo$ = (&#10;  id: IdT,&#10;  options?: $Shape&lt;$bar$&gt; = {},&#10;): $bar$ =&gt; {&#10;  const defaults: $bar$ = {&#10;    id,&#10;  }&#10;  return { ...defaults, ...options }&#10;}" description="new factory" toReformat="false" toShortenFQNames="true">
     <variable name="foo" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="bar" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
@@ -343,6 +344,37 @@
   </template>
   <template name="bl" value="{ // $foo$&#10;  $END$&#10;}" description="JS: block with comment" toReformat="false" toShortenFQNames="true">
     <variable name="foo" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="tp" value="this.props.$END$" description="this.props" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="ts" value="this.state." description="this.state" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="rf" value="await reflush(w)" description="Jest: reflush" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="reducer test" value="it('$foo$', () =&gt; {&#10;  const [state, newState] = setupState(&#10;    $bar$,&#10;    x =&gt; $baz$,&#10;  )&#10;  expect(onlyDiff(state, newState, $qux$)).toEqual($END$)&#10;})" description="reducertest" toReformat="false" toShortenFQNames="true">
+    <variable name="foo" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="bar" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="baz" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="qux" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="thunk" value="export const $foo$ = ($bar$) =&gt; (&#10;  (dispatch: DispatchT, getState: GetStateT) =&gt; {&#10;    $END$&#10;  }&#10;)" description="Redux: action thunk" toReformat="false" toShortenFQNames="true">
+    <variable name="foo" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="bar" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>

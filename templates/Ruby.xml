@@ -1,12 +1,6 @@
 <templateSet group="Ruby">
-  <template name="put" value="puts &quot;$NAME$ = #{$NAME$}&quot;&#10;$END$" description="puts x = X" toReformat="false" toShortenFQNames="true">
-    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="RUBY" value="true" />
-    </context>
-  </template>
-  <template name="#" value="$NAME$ = #{$NAME$}" description="foo = #{foo}" toReformat="false" toShortenFQNames="true">
-    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="ead" value="each do |$foo$|&#10;  $END$&#10;end" description="each do block" toReformat="false" toShortenFQNames="true">
+    <variable name="foo" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="RUBY" value="true" />
     </context>
