@@ -3318,6 +3318,36 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/devise-4.4.3/gemfiles" />
       </excluded>
     </library>
+    <library name="devise (v4.5.0, RVM: ruby-2.4.1 [transparentclassroom]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/devise-4.5.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/devise-4.5.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/devise-4.5.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/devise-4.5.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/devise-4.5.0/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/devise-4.5.0/guides" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/devise-4.5.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/devise-4.5.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/devise-4.5.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/devise-4.5.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/devise-4.5.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/devise-4.5.0/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/devise-4.5.0/guides" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/devise-4.5.0/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/devise-4.5.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/devise-4.5.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/devise-4.5.0/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/devise-4.5.0/guides" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/devise-4.5.0/gemfiles" />
+      </excluded>
+    </library>
     <library name="devise_invitable (v1.7.2, RVM: ruby-2.4.1 [transparentclassroom]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
@@ -6281,6 +6311,39 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/nokogiri-1.8.2/tasks" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/nokogiri-1.8.2/patches" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/nokogiri-1.8.2/suppressions" />
+      </excluded>
+    </library>
+    <library name="nokogiri (v1.8.4, RVM: ruby-2.4.1 [transparentclassroom]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.8.4" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/nokogiri-1.8.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/nokogiri-1.8.4/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/nokogiri-1.8.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/nokogiri-1.8.4/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/nokogiri-1.8.4/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/nokogiri-1.8.4/patches" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/nokogiri-1.8.4/suppressions" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.8.4" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/nokogiri-1.8.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/nokogiri-1.8.4/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/nokogiri-1.8.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/nokogiri-1.8.4/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/nokogiri-1.8.4/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/nokogiri-1.8.4/patches" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/nokogiri-1.8.4/suppressions" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/nokogiri-1.8.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/nokogiri-1.8.4/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/nokogiri-1.8.4/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/nokogiri-1.8.4/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/nokogiri-1.8.4/patches" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/nokogiri-1.8.4/suppressions" />
       </excluded>
     </library>
     <library name="ntlm-http (v0.1.1, RVM: ruby-2.4.1 [transparentclassroom]) [gem]" type="rubylib">
