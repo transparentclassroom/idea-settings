@@ -5,4 +5,8 @@
       <option name="RUBY" value="true" />
     </context>
   </template>
+  <template name="map" value="map { |$E$| $END$ }" description="map" toReformat="true" toShortenFQNames="true">
+    <variable name="E" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
 </templateSet>
