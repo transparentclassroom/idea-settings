@@ -379,9 +379,12 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="f" value="&lt;%= f.$END$ %&gt;" description="&lt;%= f...." toReformat="false" toShortenFQNames="true">
+  <template name="spit" value="spit('$SELECTION$', $SELECTION$)" description="spit" toReformat="false" toShortenFQNames="true">
     <context>
+      <option name="HTML" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
       <option name="RHTML" value="true" />
+      <option name="RUBY" value="true" />
     </context>
   </template>
 </templateSet>
