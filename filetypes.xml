@@ -8,6 +8,7 @@
       <mapping pattern="release" type="PLAIN_TEXT" />
       <mapping pattern="detect" type="PLAIN_TEXT" />
       <mapping pattern="compile" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="rdbm" type="PLAIN_TEXT" />
       <mapping pattern="rdbr" type="PLAIN_TEXT" />
       <mapping pattern=".jerstuff" type="PLAIN_TEXT" />
@@ -15,6 +16,7 @@
       <mapping pattern=".creds" type="PLAIN_TEXT" />
       <mapping pattern="compile2" type="PLAIN_TEXT" />
       <mapping pattern=".babelrc-jest" type="PLAIN_TEXT" />
+      <mapping pattern=".flowconfig" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
