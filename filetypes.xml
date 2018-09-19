@@ -16,7 +16,6 @@
       <mapping pattern=".creds" type="PLAIN_TEXT" />
       <mapping pattern="compile2" type="PLAIN_TEXT" />
       <mapping pattern=".babelrc-jest" type="PLAIN_TEXT" />
-      <mapping pattern=".flowconfig" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
