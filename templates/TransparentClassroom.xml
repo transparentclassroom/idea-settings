@@ -387,4 +387,10 @@
       <option name="RUBY" value="true" />
     </context>
   </template>
+  <template name="exm" value="expect($foo$).toMatch($END$)" description="expect to match" toReformat="false" toShortenFQNames="true">
+    <variable name="foo" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
 </templateSet>
