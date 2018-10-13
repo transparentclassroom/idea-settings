@@ -400,4 +400,13 @@
       <option name="RHTML" value="true" />
     </context>
   </template>
+  <template name="handler" value="export const $foo$ = curry(($bar$, state: $baz$): $baz$ =&gt; (&#10;  $END$&#10;))&#10;registerHandler(c.$qux$, $foo$)" description="Redux: reducer handler" toReformat="false" toShortenFQNames="true">
+    <variable name="foo" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="bar" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="baz" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="qux" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
 </templateSet>
