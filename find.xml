@@ -20,5 +20,6 @@
     <mask>*.jsx</mask>
     <mask>*.?rb</mask>
     <mask>*.js</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
