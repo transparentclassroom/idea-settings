@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
@@ -13,9 +15,9 @@
     <mask>*.mxml</mask>
     <mask>*.rb</mask>
     <mask>*</mask>
+    <mask>*.jsx</mask>
     <mask>*.?rb</mask>
     <mask>*.js</mask>
     <mask>*.scss</mask>
-    <mask>*.jsx</mask>
   </component>
 </application>
