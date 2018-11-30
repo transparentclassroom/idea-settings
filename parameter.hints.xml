@@ -1,0 +1,12 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="TypeScript" />
+      <blacklist language="JavaScript">
+        <added pattern="describe(*, *)" />
+        <added pattern="it(*, *)" />
+      </blacklist>
+      <blacklist language="Ruby" />
+    </blacklists>
+  </component>
+</application>
