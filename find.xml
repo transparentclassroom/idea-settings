@@ -17,5 +17,6 @@
     <mask>*.?rb</mask>
     <mask>*.js</mask>
     <mask>*.scss</mask>
+    <mask>*spec*</mask>
   </component>
 </application>
