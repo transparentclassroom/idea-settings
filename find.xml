@@ -13,10 +13,10 @@
     <mask>*.mxml</mask>
     <mask>*.rb</mask>
     <mask>*</mask>
-    <mask>*.jsx</mask>
     <mask>*.?rb</mask>
     <mask>*.js</mask>
     <mask>*spec*</mask>
     <mask>*.scss</mask>
+    <mask>*.jsx</mask>
   </component>
 </application>
