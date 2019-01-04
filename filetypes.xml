@@ -16,6 +16,7 @@
       <mapping pattern=".creds" type="PLAIN_TEXT" />
       <mapping pattern="compile2" type="PLAIN_TEXT" />
       <mapping pattern=".babelrc-jest" type="PLAIN_TEXT" />
+      <removed_mapping ext="jsx" approved="true" type="JSX Harmony" />
     </extensionMap>
   </component>
 </application>
