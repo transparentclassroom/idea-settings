@@ -72,7 +72,8 @@
   <action id="IncrementalSearch">
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
-  <action id="Macro.addCommaAtEndOfLine">
+  <action id="InsertRubyInjectionWithoutOutput" />
+  <action id="Macro.comma anchor">
     <keyboard-shortcut first-keystroke="shift meta comma" />
   </action>
   <action id="Macro.pad with spaces">
