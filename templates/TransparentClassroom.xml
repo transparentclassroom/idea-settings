@@ -222,11 +222,6 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="wr" value="const { wrapper } = wrap($END$)" description="wrap enzyme" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="JAVA_SCRIPT" value="true" />
-    </context>
-  </template>
   <template name="be" value="beforeEach(() =&gt; {&#10;  $END$&#10;})" description="Mocha: beforeEach" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
@@ -272,11 +267,6 @@
     </context>
   </template>
   <template name="ss" value="this.setState({ $END$ })" description="React: setState" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="JAVA_SCRIPT" value="true" />
-    </context>
-  </template>
-  <template name="wrp" value="const { props, wrapper } = wrap($END$)" description="Jest: wrap with props" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
