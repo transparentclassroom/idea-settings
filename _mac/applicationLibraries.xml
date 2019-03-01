@@ -2423,6 +2423,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/mustermann-1.0.0/bench" />
       </excluded>
     </library>
+    <library name="mustermann (v1.0.3, RVM: ruby-2.4.1 [transparentclassroom]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/mustermann-1.0.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/mustermann-1.0.3/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/mustermann-1.0.3/bench" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/mustermann-1.0.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/mustermann-1.0.3/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/mustermann-1.0.3/bench" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/mustermann-1.0.3/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/mustermann-1.0.3/bench" />
+      </excluded>
+    </library>
     <library name="neatjson (v0.8.3, RVM: ruby-2.4.1 [transparentclassroom]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -3148,6 +3167,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/rack-protection-2.0.0/lib" />
       </SOURCES>
     </library>
+    <library name="rack-protection (v2.0.5, RVM: ruby-2.4.1 [transparentclassroom]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/rack-protection-2.0.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/rack-protection-2.0.5/lib" />
+      </SOURCES>
+    </library>
     <library name="rack-test (v0.6.3, RVM: ruby-2.4.1 [transparentclassroom]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -3768,6 +3798,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/ruby_http_client-3.1.0/examples" />
       </excluded>
     </library>
+    <library name="ruby_http_client (v3.3.0, RVM: ruby-2.4.1 [transparentclassroom]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/ruby_http_client-3.3.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/ruby_http_client-3.3.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/ruby_http_client-3.3.0/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/ruby_http_client-3.3.0/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/ruby_http_client-3.3.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/ruby_http_client-3.3.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/ruby_http_client-3.3.0/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/ruby_http_client-3.3.0/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/ruby_http_client-3.3.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/ruby_http_client-3.3.0/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/ruby_http_client-3.3.0/examples" />
+      </excluded>
+    </library>
     <library name="rubygems-bundler (v1.4.5, RVM: ruby-2.4.1 [global]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -3922,6 +3974,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/sendgrid-actionmailer-2.0.0/gemfiles" />
       </excluded>
     </library>
+    <library name="sendgrid-actionmailer (v2.2.1@f822a0, RVM: ruby-2.4.1 [transparentclassroom]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/bundler/gems/sendgrid-actionmailer-f822a0f92e5d/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/bundler/gems/sendgrid-actionmailer-f822a0f92e5d/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/bundler/gems/sendgrid-actionmailer-f822a0f92e5d/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/bundler/gems/sendgrid-actionmailer-f822a0f92e5d/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/bundler/gems/sendgrid-actionmailer-f822a0f92e5d/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/bundler/gems/sendgrid-actionmailer-f822a0f92e5d/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/bundler/gems/sendgrid-actionmailer-f822a0f92e5d/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/bundler/gems/sendgrid-actionmailer-f822a0f92e5d/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/bundler/gems/sendgrid-actionmailer-f822a0f92e5d/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/bundler/gems/sendgrid-actionmailer-f822a0f92e5d/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/bundler/gems/sendgrid-actionmailer-f822a0f92e5d/gemfiles" />
+      </excluded>
+    </library>
     <library name="sendgrid-ruby (v5.0.0, RVM: ruby-2.4.1 [transparentclassroom]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -3948,6 +4022,37 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/sendgrid-ruby-5.0.0/.github" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/sendgrid-ruby-5.0.0/examples" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/sendgrid-ruby-5.0.0/gemfiles" />
+      </excluded>
+    </library>
+    <library name="sendgrid-ruby (v5.3.0, RVM: ruby-2.4.1 [transparentclassroom]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/sendgrid-ruby-5.3.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/sendgrid-ruby-5.3.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/sendgrid-ruby-5.3.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/sendgrid-ruby-5.3.0/docker" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/sendgrid-ruby-5.3.0/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/sendgrid-ruby-5.3.0/examples" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/sendgrid-ruby-5.3.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/sendgrid-ruby-5.3.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/sendgrid-ruby-5.3.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/sendgrid-ruby-5.3.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/sendgrid-ruby-5.3.0/docker" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/sendgrid-ruby-5.3.0/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/sendgrid-ruby-5.3.0/examples" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/sendgrid-ruby-5.3.0/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/sendgrid-ruby-5.3.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/sendgrid-ruby-5.3.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/sendgrid-ruby-5.3.0/docker" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/sendgrid-ruby-5.3.0/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/sendgrid-ruby-5.3.0/examples" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/sendgrid-ruby-5.3.0/gemfiles" />
       </excluded>
     </library>
     <library name="signet (v0.7.3, RVM: ruby-2.4.1 [transparentclassroom]) [gem]" type="rubylib">
@@ -4002,6 +4107,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/sinatra-2.0.0/examples" />
+      </excluded>
+    </library>
+    <library name="sinatra (v2.0.5, RVM: ruby-2.4.1 [transparentclassroom]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/sinatra-2.0.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/sinatra-2.0.5/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/sinatra-2.0.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/sinatra-2.0.5/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/sinatra-2.0.5/examples" />
       </excluded>
     </library>
     <library name="spring (v2.0.1, RVM: ruby-2.4.1 [transparentclassroom]) [gem]" type="rubylib">
