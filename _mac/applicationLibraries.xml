@@ -4015,6 +4015,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/bundler/gems/sendgrid-actionmailer-f822a0f92e5d/gemfiles" />
       </excluded>
     </library>
+    <library name="sendgrid-actionmailer (v2.2.1a@2c9b68, RVM: ruby-2.4.1 [transparentclassroom]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/bundler/gems/sendgrid-actionmailer-2c9b68c297ea/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/bundler/gems/sendgrid-actionmailer-2c9b68c297ea/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/bundler/gems/sendgrid-actionmailer-2c9b68c297ea/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/bundler/gems/sendgrid-actionmailer-2c9b68c297ea/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/bundler/gems/sendgrid-actionmailer-2c9b68c297ea/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/bundler/gems/sendgrid-actionmailer-2c9b68c297ea/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/bundler/gems/sendgrid-actionmailer-2c9b68c297ea/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/bundler/gems/sendgrid-actionmailer-2c9b68c297ea/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/bundler/gems/sendgrid-actionmailer-2c9b68c297ea/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/bundler/gems/sendgrid-actionmailer-2c9b68c297ea/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/bundler/gems/sendgrid-actionmailer-2c9b68c297ea/gemfiles" />
+      </excluded>
+    </library>
     <library name="sendgrid-ruby (v5.0.0, RVM: ruby-2.4.1 [transparentclassroom]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
