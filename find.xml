@@ -14,5 +14,6 @@
     <mask>*.mxml</mask>
     <mask>*.rb</mask>
     <mask>*_spec.js*</mask>
+    <mask>*_spec.rb*</mask>
   </component>
 </application>
