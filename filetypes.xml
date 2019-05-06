@@ -1,0 +1,10 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="run" type="PLAIN_TEXT" />
+      <mapping pattern="run_prod" type="PLAIN_TEXT" />
+      <mapping pattern="lay_siege" type="PLAIN_TEXT" />
+      <mapping pattern="pull_db_to_dev1" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

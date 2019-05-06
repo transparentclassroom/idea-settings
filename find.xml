@@ -2,25 +2,20 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="preserveCase" value="true" />
-    <option name="PRESERVE_CASE_REPLACE" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*.js</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
-    <mask>*</mask>
-    <mask>*.?rb</mask>
-    <mask>*spec*</mask>
-    <mask>*.scss</mask>
-    <mask>*_controller.rb</mask>
-    <mask>*.jsx</mask>
+    <mask>*.*rb</mask>
+    <mask>*spec.rb</mask>
     <mask>*.rb</mask>
-    <mask>*.js</mask>
-    <mask>*.js*</mask>
+    <mask>*.scss</mask>
+    <mask>*.html.erb</mask>
   </component>
 </application>
