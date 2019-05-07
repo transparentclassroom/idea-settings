@@ -847,6 +847,55 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/database_cleaner-1.6.1/examples" />
       </excluded>
     </library>
+    <library name="debase (v0.2.2, RVM: ruby-2.4.1 [transparentclassroom]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/debase-0.2.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/debase-0.2.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/debase-0.2.2/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/debase-0.2.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/debase-0.2.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/debase-0.2.2/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/debase-0.2.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/debase-0.2.2/test" />
+      </excluded>
+    </library>
+    <library name="debase (v0.2.3.beta5, RVM: ruby-2.4.1 [transparentclassroom]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/debase-0.2.3.beta5/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/debase-0.2.3.beta5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/debase-0.2.3.beta5/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/debase-0.2.3.beta5/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/debase-0.2.3.beta5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/debase-0.2.3.beta5/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/debase-0.2.3.beta5/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/debase-0.2.3.beta5/test" />
+      </excluded>
+    </library>
+    <library name="debase-ruby_core_source (v0.10.4, RVM: ruby-2.4.1 [transparentclassroom]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/debase-ruby_core_source-0.10.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/debase-ruby_core_source-0.10.4/lib" />
+      </SOURCES>
+    </library>
     <library name="declarative (v0.0.10, RVM: ruby-2.4.1 [transparentclassroom]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -2867,6 +2916,7 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.8.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/nokogiri-1.8.4/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/nokogiri-1.8.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/nokogiri-1.8.4/lib" />
@@ -2876,6 +2926,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/nokogiri-1.8.4/suppressions" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.8.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/nokogiri-1.8.4/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/nokogiri-1.8.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/nokogiri-1.8.4/lib" />
@@ -4025,6 +4076,25 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/rspec-support-3.6.0/lib" />
       </SOURCES>
+    </library>
+    <library name="ruby-debug-ide (v0.7.0.beta7, RVM: ruby-2.4.1 [transparentclassroom]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/ruby-debug-ide-0.7.0.beta7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/ruby-debug-ide-0.7.0.beta7/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/ruby-debug-ide-0.7.0.beta7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/ruby-debug-ide-0.7.0.beta7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/ruby-debug-ide-0.7.0.beta7/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/ruby-debug-ide-0.7.0.beta7/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/ruby-debug-ide-0.7.0.beta7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@transparentclassroom/gems/ruby-debug-ide-0.7.0.beta7/ext" />
+      </excluded>
     </library>
     <library name="ruby_http_client (v3.3.0, RVM: ruby-2.4.1 [transparentclassroom]) [gem]" type="rubylib">
       <properties>
