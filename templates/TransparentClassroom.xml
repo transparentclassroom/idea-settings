@@ -409,4 +409,11 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
+  <template name="do=" value="&lt;%= $foo$ do$bar$ %&gt;&#10;  $END$&#10;&lt;% end %&gt;" description="ERB: &lt;%= ... do %&gt;" toReformat="false" toShortenFQNames="true">
+    <variable name="foo" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="bar" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="RHTML" value="true" />
+    </context>
+  </template>
 </templateSet>
