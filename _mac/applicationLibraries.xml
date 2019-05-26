@@ -1,5 +1,9 @@
 <application>
   <component name="libraryTable">
+    <library name="@types/jest" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="actioncable (v5.0.3, RVM: ruby-2.4.1 [transparentclassroom]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
