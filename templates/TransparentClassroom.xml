@@ -416,4 +416,10 @@
       <option name="RHTML" value="true" />
     </context>
   </template>
+  <template name="=s" value="$foo$=&quot;$END$&quot;" description="JSX equals string" toReformat="false" toShortenFQNames="true">
+    <variable name="foo" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
 </templateSet>
