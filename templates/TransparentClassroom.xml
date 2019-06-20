@@ -422,4 +422,10 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
+  <template name="dojospec" value="require_relative '../../spec_helper'&#10;require_relative './$foo$'&#10;&#10;describe '#$foo$' do&#10;  it 'should work' do&#10;    $END$&#10;  end&#10;end" description="Dojo spec template" toReformat="false" toShortenFQNames="true">
+    <variable name="foo" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="RUBY" value="true" />
+    </context>
+  </template>
 </templateSet>
