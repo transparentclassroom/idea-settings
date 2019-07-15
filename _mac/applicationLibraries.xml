@@ -12850,6 +12850,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/bundler/gems/sendgrid-actionmailer-2c9b68c297ea/gemfiles" />
       </excluded>
     </library>
+    <library name="sendgrid-actionmailer (v2.2.1b@121b31, RVM: ruby-2.5.5 [transparentclassroom]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/bundler/gems/sendgrid-actionmailer-121b31abbfe3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/bundler/gems/sendgrid-actionmailer-121b31abbfe3/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/bundler/gems/sendgrid-actionmailer-121b31abbfe3/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/bundler/gems/sendgrid-actionmailer-121b31abbfe3/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/bundler/gems/sendgrid-actionmailer-121b31abbfe3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/bundler/gems/sendgrid-actionmailer-121b31abbfe3/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/bundler/gems/sendgrid-actionmailer-121b31abbfe3/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/bundler/gems/sendgrid-actionmailer-121b31abbfe3/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/bundler/gems/sendgrid-actionmailer-121b31abbfe3/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/bundler/gems/sendgrid-actionmailer-121b31abbfe3/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/bundler/gems/sendgrid-actionmailer-121b31abbfe3/gemfiles" />
+      </excluded>
+    </library>
     <library name="sendgrid-ruby (v5.3.0, RVM: ruby-2.4.1 [transparentclassroom]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -13955,6 +13977,31 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/tilt-2.0.7/man" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/tilt-2.0.7/docs" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/tilt-2.0.7/test" />
+      </excluded>
+    </library>
+    <library name="tilt (v2.0.9, RVM: ruby-2.5.5 [transparentclassroom]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/tilt-2.0.9/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/tilt-2.0.9/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/tilt-2.0.9/man" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/tilt-2.0.9/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/tilt-2.0.9/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/tilt-2.0.9/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/tilt-2.0.9/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/tilt-2.0.9/man" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/tilt-2.0.9/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/tilt-2.0.9/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/tilt-2.0.9/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/tilt-2.0.9/man" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/tilt-2.0.9/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/tilt-2.0.9/test" />
       </excluded>
     </library>
     <library name="tilt (v2.0.9, RVM: ruby-2.6.3) [gem]" type="rubylib">
