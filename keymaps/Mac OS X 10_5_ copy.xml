@@ -5,6 +5,9 @@
     <mouse-shortcut keystroke="button4" />
   </action>
   <action id="ChangesView.AddUnversioned" />
+  <action id="CloseAllEditorsButActive">
+    <keyboard-shortcut first-keystroke="meta alt w" />
+  </action>
   <action id="Console.Execute.Multiline" />
   <action id="Console.TableResult.AddColumn" />
   <action id="Console.TableResult.Submit" />
