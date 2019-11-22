@@ -1,0 +1,22 @@
+<templateSet group="Rails 5.1 Upgrade">
+  <template name="sct" value="saved_change_to_" description="saved_change_to_" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="RUBY" value="true" />
+    </context>
+  </template>
+  <template name="wsct" value="will_save_change_to_" description="will_save_change_to_" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="RUBY" value="true" />
+    </context>
+  </template>
+  <template name=":sct" value=":saved_change_to_" description="saved_change_to_" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="RUBY" value="true" />
+    </context>
+  </template>
+  <template name=":wsct" value=":will_save_change_to_" description="will_save_change_to_" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="RUBY" value="true" />
+    </context>
+  </template>
+</templateSet>

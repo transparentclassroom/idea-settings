@@ -64,13 +64,13 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="comppure" value="// @flow&#10;import React from 'react'&#10;&#10;type PropsT = {}&#10;&#10;export class $foo$ extends React.PureComponent&lt;PropsT&gt; {&#10;  render() {&#10;    return (&#10;      $END$&#10;    )&#10;  }&#10;}" description="React: pure component template" toReformat="true" toShortenFQNames="true">
+  <template name="comppure" value="// @flow&#10;import React from 'react'&#10;&#10;type PropsT = {||}&#10;&#10;export class $foo$ extends React.PureComponent&lt;PropsT&gt; {&#10;  render() {&#10;    return (&#10;      $END$&#10;    )&#10;  }&#10;}" description="React: pure component template" toReformat="true" toShortenFQNames="true">
     <variable name="foo" expression="" defaultValue="&quot;Foo&quot;" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="connectredux" value="import { connect } from 'react-redux'&#10;import type { GlobalStateT } from 'shared/types'&#10;&#10;const mapStateToProps = (state: GlobalStateT, ownProps) =&gt; {&#10;  return {}&#10;}&#10;&#10;export const $BAR$ = connect(mapStateToProps)($FOO$)" description="Redux: connector stuff" toReformat="true" toShortenFQNames="true">
+  <template name="connectredux" value="import { connect } from 'react-redux'&#10;import type { GlobalStateT } from 'shared/types'&#10;&#10;type OwnPropsT = {||}&#10;type PropsT = {|&#10;  ...OwnPropsT,&#10;|}&#10;&#10;const mapStateToProps = (state: GlobalStateT, ownProps: OwnPropsT) =&gt; ({})&#10;&#10;export const $BAR$ = connect&lt;PropsT, OwnPropsT, _, _, _, _&gt;(mapStateToProps)($FOO$)" description="Redux: connector stuff" toReformat="true" toShortenFQNames="true">
     <variable name="BAR" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="FOO" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
@@ -222,11 +222,6 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="wr" value="const { wrapper } = wrap($END$)" description="wrap enzyme" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="JAVA_SCRIPT" value="true" />
-    </context>
-  </template>
   <template name="be" value="beforeEach(() =&gt; {&#10;  $END$&#10;})" description="Mocha: beforeEach" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
@@ -272,11 +267,6 @@
     </context>
   </template>
   <template name="ss" value="this.setState({ $END$ })" description="React: setState" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="JAVA_SCRIPT" value="true" />
-    </context>
-  </template>
-  <template name="wrp" value="const { props, wrapper } = wrap($END$)" description="Jest: wrap with props" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
@@ -410,6 +400,11 @@
     </context>
   </template>
   <template name="globalselector" value="/** ************* Global Selectors ************** */" description="Global selector comment" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="injectprop" value="$END$: (undefined: any), // trick Flow to handle other injected props" description="flow trick to allow for other injected props" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>

@@ -1,21 +1,24 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '.../app/models/child.rb [TransparentClassroom]'" />
+    <option name="defaultScopeName" value="File '.../app/models/child.rb [TransparentClassroom]'" />
+    <option name="SEARCH_SCOPE" value="File '.../app/models/child.rb [TransparentClassroom]'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
-    <mask>*.js</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
-    <mask>*.*rb</mask>
-    <mask>*spec.rb</mask>
-    <mask>*.rb</mask>
+    <mask>*_spec.rb</mask>
+    <mask>*_controller.rb</mask>
+    <mask>*.*</mask>
+    <mask>*helper.rb</mask>
     <mask>*.scss</mask>
-    <mask>*.html.erb</mask>
+    <mask>*.js</mask>
+    <mask>*.j*</mask>
+    <mask>*.js*</mask>
+    <mask>*.rb</mask>
   </component>
 </application>
