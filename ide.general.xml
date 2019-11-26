@@ -2,6 +2,11 @@
   <component name="GeneralSettings">
     <option name="confirmExit" value="false" />
     <option name="showTipsOnStartup" value="false" />
+    <option name="useSafeWrite" value="false" />
+  </component>
+  <component name="Registry">
+    <entry key="javascript.flow.use.lsp" value="false" />
+    <entry key="js.debugger.webconsole" value="false" />
   </component>
   <component name="Registry">
     <entry key="javascript.flow.use.lsp" value="false" />

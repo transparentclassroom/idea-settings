@@ -2,25 +2,21 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="localRegularExpressions" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*.js</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
-    <mask>*_spec.rb</mask>
-    <mask>*_controller.rb</mask>
-    <mask>*.*</mask>
-    <mask>*helper.rb</mask>
-    <mask>*.scss</mask>
-    <mask>*.js</mask>
-    <mask>*.j*</mask>
-    <mask>*.js*</mask>
     <mask>*.rb</mask>
+    <mask>*_spec.js*</mask>
+    <mask>*_spec.rb*</mask>
+    <mask>*spec*</mask>
+    <mask>*md</mask>
+    <mask>*js*</mask>
   </component>
 </application>

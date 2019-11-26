@@ -1,19 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="run" type="PLAIN_TEXT" />
-      <mapping pattern="TODO" type="PLAIN_TEXT" />
-      <mapping pattern="deploy" type="PLAIN_TEXT" />
-      <mapping pattern="Makefile" type="PLAIN_TEXT" />
-      <mapping pattern="run_prod" type="PLAIN_TEXT" />
-      <mapping pattern=".rspec_parallel" type="PLAIN_TEXT" />
-      <mapping pattern="test_env" type="PLAIN_TEXT" />
-      <mapping pattern=".ruby-version" type="PLAIN_TEXT" />
-      <mapping pattern="Procfile" type="PLAIN_TEXT" />
-      <mapping pattern="lay_siege" type="PLAIN_TEXT" />
-      <mapping pattern="README" type="PLAIN_TEXT" />
-      <mapping pattern="pull_db_to_dev1" type="PLAIN_TEXT" />
-      <mapping pattern="env" type="PLAIN_TEXT" />
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern=".env.example" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
