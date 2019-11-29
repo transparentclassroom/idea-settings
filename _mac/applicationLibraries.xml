@@ -349,13 +349,11 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/bcrypt/3.1.12" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/bcrypt-3.1.12/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/bcrypt-3.1.12/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/bcrypt-3.1.12/spec" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/bcrypt/3.1.12" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/bcrypt-3.1.12/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/bcrypt-3.1.12/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/bcrypt-3.1.12/spec" />
@@ -413,14 +411,12 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/bootsnap/1.4.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/bootsnap-1.4.4/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/bootsnap-1.4.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/bootsnap-1.4.4/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/bootsnap-1.4.4/.github" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/bootsnap/1.4.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/bootsnap-1.4.4/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/bootsnap-1.4.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/bootsnap-1.4.4/lib" />
@@ -655,13 +651,11 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/byebug/11.0.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/byebug-11.0.1/exe" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/byebug-11.0.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/byebug-11.0.1/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/byebug/11.0.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/byebug-11.0.1/exe" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/byebug-11.0.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/byebug-11.0.1/lib" />
@@ -676,12 +670,10 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/charlock_holmes/0.7.6" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/charlock_holmes-0.7.6/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/charlock_holmes-0.7.6/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/charlock_holmes/0.7.6" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/charlock_holmes-0.7.6/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/charlock_holmes-0.7.6/lib" />
       </SOURCES>
@@ -823,13 +815,11 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/debase/0.2.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/debase-0.2.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/debase-0.2.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/debase-0.2.2/test" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/debase/0.2.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/debase-0.2.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/debase-0.2.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/debase-0.2.2/test" />
@@ -856,6 +846,25 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/debase-0.2.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/debase-0.2.4/test" />
+      </excluded>
+    </library>
+    <library name="debase (v0.3.0.beta8, RVM: ruby-2.5.5 [transparentclassroom]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/debase-0.3.0.beta8/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/debase-0.3.0.beta8/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/debase-0.3.0.beta8/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/debase-0.3.0.beta8/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/debase-0.3.0.beta8/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/debase-0.3.0.beta8/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/debase-0.3.0.beta8/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/debase-0.3.0.beta8/test" />
       </excluded>
     </library>
     <library name="debase-ruby_core_source (v0.10.5, RVM: ruby-2.5.5 [transparentclassroom]) [gem]" type="rubylib">
@@ -1297,6 +1306,34 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/bundler/gems/exception_notification-048fc6be9721/test" />
       </excluded>
     </library>
+    <library name="executable-hooks (v1.6.0, RVM: ruby-2.4.1 [global]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/gems/2.4.0/gems/executable-hooks-1.6.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/gems/2.4.0/gems/executable-hooks-1.6.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/gems/2.4.0/gems/executable-hooks-1.6.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/gems/2.4.0/gems/executable-hooks-1.6.0/test-tf" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/gems/2.4.0/gems/executable-hooks-1.6.0/test-tf-bundle" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/gems/2.4.0/gems/executable-hooks-1.6.0/test-tf-truffleruby" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/gems/2.4.0/gems/executable-hooks-1.6.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/gems/2.4.0/gems/executable-hooks-1.6.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/gems/2.4.0/gems/executable-hooks-1.6.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/gems/2.4.0/gems/executable-hooks-1.6.0/test-tf" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/gems/2.4.0/gems/executable-hooks-1.6.0/test-tf-bundle" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/gems/2.4.0/gems/executable-hooks-1.6.0/test-tf-truffleruby" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/gems/2.4.0/gems/executable-hooks-1.6.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/gems/2.4.0/gems/executable-hooks-1.6.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/gems/2.4.0/gems/executable-hooks-1.6.0/test-tf" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/gems/2.4.0/gems/executable-hooks-1.6.0/test-tf-bundle" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/gems/2.4.0/gems/executable-hooks-1.6.0/test-tf-truffleruby" />
+      </excluded>
+    </library>
     <library name="executable-hooks (v1.6.0, RVM: ruby-2.5.5 [transparentclassroom]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1390,13 +1427,11 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/ffi/1.10.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/ffi-1.10.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/ffi-1.10.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/ffi-1.10.0/samples" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/ffi/1.10.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/ffi-1.10.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/ffi-1.10.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/ffi-1.10.0/samples" />
@@ -1646,6 +1681,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/hashie-3.5.5/spec" />
       </excluded>
     </library>
+    <library name="hashie (v3.6.0, RVM: ruby-2.5.5 [transparentclassroom]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/hashie-3.6.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/hashie-3.6.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/hashie-3.6.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/hashie-3.6.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/hashie-3.6.0/spec" />
+      </excluded>
+    </library>
     <library name="highline (v2.0.2, RVM: ruby-2.5.5 [transparentclassroom]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1726,7 +1777,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/http_parser.rb/0.5.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/http_parser.rb-0.5.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/http_parser.rb-0.5.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/http_parser.rb-0.5.3/spec" />
@@ -1734,7 +1784,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/http_parser.rb-0.5.3/tasks" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/http_parser.rb/0.5.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/http_parser.rb-0.5.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/http_parser.rb-0.5.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/http_parser.rb-0.5.3/spec" />
@@ -1837,6 +1886,44 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/i18n-js-3.2.3/gemfiles" />
       </excluded>
     </library>
+    <library name="i18n-migrations (v1.0.4, RVM: ruby-2.5.5 [transparentclassroom]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/i18n-migrations-1.0.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/i18n-migrations-1.0.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/i18n-migrations-1.0.4/example" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/i18n-migrations-1.0.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/i18n-migrations-1.0.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/i18n-migrations-1.0.4/example" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/i18n-migrations-1.0.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/i18n-migrations-1.0.4/example" />
+      </excluded>
+    </library>
+    <library name="i18n-migrations (v1.0.6, RVM: ruby-2.5.5 [transparentclassroom]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/i18n-migrations-1.0.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/i18n-migrations-1.0.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/i18n-migrations-1.0.6/example" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/i18n-migrations-1.0.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/i18n-migrations-1.0.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/i18n-migrations-1.0.6/example" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/i18n-migrations-1.0.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/i18n-migrations-1.0.6/example" />
+      </excluded>
+    </library>
     <library name="i18n-migrations (v1.1.2, RVM: ruby-2.5.5 [transparentclassroom]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1936,12 +2023,10 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/jaro_winkler/1.5.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/jaro_winkler-1.5.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/jaro_winkler-1.5.4/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/jaro_winkler/1.5.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/jaro_winkler-1.5.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/jaro_winkler-1.5.4/lib" />
       </SOURCES>
@@ -1983,7 +2068,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/json/1.8.6" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/json-1.8.6/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/json-1.8.6/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/json-1.8.6/data" />
@@ -1993,7 +2077,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/json-1.8.6/diagrams" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/json/1.8.6" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/json-1.8.6/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/json-1.8.6/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/json-1.8.6/data" />
@@ -2141,6 +2224,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/liquid-4.0.0/test" />
+      </excluded>
+    </library>
+    <library name="listen (v3.1.5, RVM: ruby-2.5.5 [transparentclassroom]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/listen-3.1.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/listen-3.1.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/listen-3.1.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/listen-3.1.5/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/listen-3.1.5/bin" />
       </excluded>
     </library>
     <library name="little-plugger (v1.1.4, RVM: ruby-2.5.5 [transparentclassroom]) [gem]" type="rubylib">
@@ -2510,7 +2609,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/msgpack/1.2.10" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/msgpack-1.2.10/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/msgpack-1.2.10/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/msgpack-1.2.10/spec" />
@@ -2518,7 +2616,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/msgpack-1.2.10/doclib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/msgpack/1.2.10" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/msgpack-1.2.10/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/msgpack-1.2.10/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/msgpack-1.2.10/spec" />
@@ -2740,7 +2837,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/nio4r/2.3.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/nio4r-2.3.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/nio4r-2.3.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/nio4r-2.3.1/spec" />
@@ -2748,7 +2844,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/nio4r-2.3.1/examples" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/nio4r/2.3.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/nio4r-2.3.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/nio4r-2.3.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/nio4r-2.3.1/spec" />
@@ -2767,14 +2862,12 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/nokogiri/1.10.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/nokogiri-1.10.3/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/nokogiri-1.10.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/nokogiri-1.10.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/nokogiri-1.10.3/patches" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/nokogiri/1.10.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/nokogiri-1.10.3/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/nokogiri-1.10.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/nokogiri-1.10.3/lib" />
@@ -2832,6 +2925,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/oauth2-1.3.1/lib" />
       </SOURCES>
     </library>
+    <library name="oauth2 (v1.4.1, RVM: ruby-2.5.5 [transparentclassroom]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/oauth2-1.4.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/oauth2-1.4.1/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/oauth2-1.4.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/oauth2-1.4.1/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/oauth2-1.4.1/gemfiles" />
+      </excluded>
+    </library>
     <library name="omniauth (v1.6.1, RVM: ruby-2.5.5 [transparentclassroom]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -2846,6 +2955,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/omniauth-1.6.1/.github" />
+      </excluded>
+    </library>
+    <library name="omniauth (v1.9.0, RVM: ruby-2.5.5 [transparentclassroom]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/omniauth-1.9.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/omniauth-1.9.0/.github" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/omniauth-1.9.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/omniauth-1.9.0/.github" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/omniauth-1.9.0/.github" />
       </excluded>
     </library>
     <library name="omniauth-facebook (v4.0.0, RVM: ruby-2.5.5 [transparentclassroom]) [gem]" type="rubylib">
@@ -2886,6 +3011,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/omniauth-google-oauth2-0.4.1/examples" />
       </excluded>
     </library>
+    <library name="omniauth-google-oauth2 (v0.5.4, RVM: ruby-2.5.5 [transparentclassroom]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/omniauth-google-oauth2-0.5.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/omniauth-google-oauth2-0.5.4/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/omniauth-google-oauth2-0.5.4/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/omniauth-google-oauth2-0.5.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/omniauth-google-oauth2-0.5.4/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/omniauth-google-oauth2-0.5.4/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/omniauth-google-oauth2-0.5.4/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/omniauth-google-oauth2-0.5.4/examples" />
+      </excluded>
+    </library>
     <library name="omniauth-oauth2 (v1.4.0, RVM: ruby-2.5.5 [transparentclassroom]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -2900,6 +3044,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/omniauth-oauth2-1.4.0/spec" />
+      </excluded>
+    </library>
+    <library name="omniauth-oauth2 (v1.6.0, RVM: ruby-2.5.5 [transparentclassroom]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/omniauth-oauth2-1.6.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/omniauth-oauth2-1.6.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/omniauth-oauth2-1.6.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/omniauth-oauth2-1.6.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/omniauth-oauth2-1.6.0/spec" />
       </excluded>
     </library>
     <library name="openssl (v2.0.3, RVM: ruby-2.4.1 [global]) [gem]" type="rubylib">
@@ -3083,14 +3243,12 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/pg/0.20.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/pg-0.20.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/pg-0.20.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/pg-0.20.0/spec" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/pg-0.20.0/sample" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/pg/0.20.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/pg-0.20.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/pg-0.20.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/pg-0.20.0/spec" />
@@ -3337,7 +3495,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/puma/4.1.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/puma-4.1.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/puma-4.1.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/puma-4.1.0/lib" />
@@ -3345,7 +3502,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/puma-4.1.0/tools" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/puma/4.1.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/puma-4.1.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/puma-4.1.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/puma-4.1.0/lib" />
@@ -3432,6 +3588,25 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/rack-test-1.1.0/lib" />
       </SOURCES>
+    </library>
+    <library name="rack-timeout (v0.5.1, RVM: ruby-2.5.5 [transparentclassroom]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/rack-timeout-0.5.1/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/rack-timeout-0.5.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/rack-timeout-0.5.1/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/rack-timeout-0.5.1/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/rack-timeout-0.5.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/rack-timeout-0.5.1/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/rack-timeout-0.5.1/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/rack-timeout-0.5.1/test" />
+      </excluded>
     </library>
     <library name="rails (v5.2.3, RVM: ruby-2.5.5 [transparentclassroom]) [gem]" type="rubylib">
       <properties>
@@ -3649,6 +3824,41 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/rake-12.3.2/exe" />
       </excluded>
     </library>
+    <library name="rb-fsevent (v0.10.3, RVM: ruby-2.5.5 [transparentclassroom]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/rb-fsevent-0.10.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/rb-fsevent-0.10.3/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/rb-fsevent-0.10.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/rb-fsevent-0.10.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/rb-fsevent-0.10.3/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/rb-fsevent-0.10.3/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/rb-fsevent-0.10.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/rb-fsevent-0.10.3/ext" />
+      </excluded>
+    </library>
+    <library name="rb-inotify (v0.10.0, RVM: ruby-2.5.5 [transparentclassroom]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/rb-inotify-0.10.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/rb-inotify-0.10.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/rb-inotify-0.10.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/rb-inotify-0.10.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/rb-inotify-0.10.0/spec" />
+      </excluded>
+    </library>
     <library name="rdoc (v5.0.0, RVM: ruby-2.4.1 [global]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -3779,7 +3989,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/RedCloth/4.3.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/RedCloth-4.3.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/RedCloth-4.3.2/doc" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/RedCloth-4.3.2/ext" />
@@ -3788,7 +3997,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/RedCloth-4.3.2/tasks" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/RedCloth/4.3.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/RedCloth-4.3.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/RedCloth-4.3.2/doc" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/RedCloth-4.3.2/ext" />
@@ -4062,6 +4270,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/ruby-debug-ide-0.7.0/ext" />
       </excluded>
     </library>
+    <library name="ruby-debug-ide (v0.8.0.beta8, RVM: ruby-2.5.5 [transparentclassroom]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/ruby-debug-ide-0.8.0.beta8/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/ruby-debug-ide-0.8.0.beta8/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/ruby-debug-ide-0.8.0.beta8/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/ruby-debug-ide-0.8.0.beta8/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/ruby-debug-ide-0.8.0.beta8/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/ruby-debug-ide-0.8.0.beta8/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/ruby-debug-ide-0.8.0.beta8/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/ruby-debug-ide-0.8.0.beta8/ext" />
+      </excluded>
+    </library>
     <library name="ruby-gmail (v0.3.1, RVM: ruby-2.5.5 [transparentclassroom]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -4087,6 +4314,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/ruby-progressbar-1.10.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="ruby_dep (v1.5.0, RVM: ruby-2.5.5 [transparentclassroom]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/ruby_dep-1.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/ruby_dep-1.5.0/lib" />
       </SOURCES>
     </library>
     <library name="ruby_http_client (v3.3.0, RVM: ruby-2.5.5 [transparentclassroom]) [gem]" type="rubylib">
@@ -4197,7 +4435,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/scout_apm/2.6.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/scout_apm-2.6.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/scout_apm-2.6.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/scout_apm-2.6.1/data" />
@@ -4205,7 +4442,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/scout_apm-2.6.1/test" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/scout_apm/2.6.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/scout_apm-2.6.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/scout_apm-2.6.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/scout_apm-2.6.1/data" />
@@ -4647,6 +4883,31 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/thread_safe-0.3.6/yard-template" />
       </excluded>
     </library>
+    <library name="tilt (v2.0.7, RVM: ruby-2.5.5 [transparentclassroom]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/tilt-2.0.7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/tilt-2.0.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/tilt-2.0.7/man" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/tilt-2.0.7/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/tilt-2.0.7/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/tilt-2.0.7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/tilt-2.0.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/tilt-2.0.7/man" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/tilt-2.0.7/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/tilt-2.0.7/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/tilt-2.0.7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/tilt-2.0.7/man" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/tilt-2.0.7/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/tilt-2.0.7/test" />
+      </excluded>
+    </library>
     <library name="tilt (v2.0.9, RVM: ruby-2.5.5 [transparentclassroom]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -4883,12 +5144,10 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/websocket-driver/0.7.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/websocket-driver-0.7.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/websocket-driver-0.7.0/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/websocket-driver/0.7.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/websocket-driver-0.7.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/websocket-driver-0.7.0/lib" />
       </SOURCES>
