@@ -167,6 +167,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/activesupport-5.2.3/lib" />
       </SOURCES>
     </library>
+    <library name="activesupport (v5.2.3, RVM: ruby-2.6.4 [i18n-migrations]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/activesupport-5.2.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/activesupport-5.2.3/lib" />
+      </SOURCES>
+    </library>
     <library name="acts_as_list (v0.9.19, RVM: ruby-2.5.5 [transparentclassroom]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -206,6 +217,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/addressable-2.6.0/data" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/addressable-2.6.0/spec" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/addressable-2.6.0/tasks" />
+      </excluded>
+    </library>
+    <library name="addressable (v2.6.0, RVM: ruby-2.6.4 [i18n-migrations]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/addressable-2.6.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/addressable-2.6.0/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/addressable-2.6.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/addressable-2.6.0/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/addressable-2.6.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/addressable-2.6.0/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/addressable-2.6.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/addressable-2.6.0/tasks" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/addressable-2.6.0/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/addressable-2.6.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/addressable-2.6.0/tasks" />
       </excluded>
     </library>
     <library name="ancestry (v3.0.6@c91c19, RVM: ruby-2.5.5 [transparentclassroom]) [gem]" type="rubylib">
@@ -378,6 +411,13 @@
       <SOURCES />
     </library>
     <library name="bigdecimal (v1.3.4, RVM: ruby-2.5.5 [transparentclassroom]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="bigdecimal (v1.4.1, RVM: ruby-2.6.4 [i18n-migrations]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
       </properties>
@@ -613,6 +653,52 @@
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.5/lib/ruby/site_ruby/2.5.0/bundler/compact_index_client" />
       </excluded>
     </library>
+    <library name="bundler (v1.17.3, RVM: ruby-2.6.4 [i18n-migrations]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/site_ruby/2.6.0/bundler/ui" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/site_ruby/2.6.0/bundler/cli" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/site_ruby/2.6.0/bundler/plugin" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/site_ruby/2.6.0/bundler/source" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/site_ruby/2.6.0/bundler/vendor" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/site_ruby/2.6.0/bundler/fetcher" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/site_ruby/2.6.0/bundler/resolver" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/site_ruby/2.6.0/bundler/settings" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/site_ruby/2.6.0/bundler/installer" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/site_ruby/2.6.0/bundler/ssl_certs" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/site_ruby/2.6.0/bundler/templates" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/site_ruby/2.6.0/bundler/compact_index_client" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/site_ruby/2.6.0/bundler/ui" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/site_ruby/2.6.0/bundler/cli" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/site_ruby/2.6.0/bundler/plugin" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/site_ruby/2.6.0/bundler/source" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/site_ruby/2.6.0/bundler/vendor" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/site_ruby/2.6.0/bundler/fetcher" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/site_ruby/2.6.0/bundler/resolver" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/site_ruby/2.6.0/bundler/settings" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/site_ruby/2.6.0/bundler/installer" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/site_ruby/2.6.0/bundler/ssl_certs" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/site_ruby/2.6.0/bundler/templates" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/site_ruby/2.6.0/bundler/compact_index_client" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/site_ruby/2.6.0/bundler/ui" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/site_ruby/2.6.0/bundler/cli" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/site_ruby/2.6.0/bundler/plugin" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/site_ruby/2.6.0/bundler/source" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/site_ruby/2.6.0/bundler/fetcher" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/site_ruby/2.6.0/bundler/resolver" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/site_ruby/2.6.0/bundler/settings" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/site_ruby/2.6.0/bundler/installer" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/site_ruby/2.6.0/bundler/ssl_certs" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/site_ruby/2.6.0/bundler/templates" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/site_ruby/2.6.0/bundler/compact_index_client" />
+      </excluded>
+    </library>
     <library name="bundler-unload (v1.0.2, RVM: ruby-2.4.1 [global]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -644,6 +730,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.5/lib/ruby/gems/2.5.0/gems/bundler-unload-1.0.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="bundler-unload (v1.0.2, RVM: ruby-2.6.4 [i18n-migrations]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/gems/2.6.0/gems/bundler-unload-1.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/gems/2.6.0/gems/bundler-unload-1.0.2/lib" />
       </SOURCES>
     </library>
     <library name="byebug (v11.0.1, RVM: ruby-2.5.5 [transparentclassroom]) [gem]" type="rubylib">
@@ -729,6 +826,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/colorize-0.8.1/test" />
       </excluded>
     </library>
+    <library name="colorize (v0.8.1, RVM: ruby-2.6.4 [i18n-migrations]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/colorize-0.8.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/colorize-0.8.1/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/colorize-0.8.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/colorize-0.8.1/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/colorize-0.8.1/test" />
+      </excluded>
+    </library>
     <library name="concurrent-ruby (v1.1.5, RVM: ruby-2.5.5 [transparentclassroom]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -745,6 +858,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/concurrent-ruby-1.1.5/ext" />
       </excluded>
     </library>
+    <library name="concurrent-ruby (v1.1.5, RVM: ruby-2.6.4 [i18n-migrations]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/concurrent-ruby-1.1.5/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/concurrent-ruby-1.1.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/concurrent-ruby-1.1.5/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/concurrent-ruby-1.1.5/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/concurrent-ruby-1.1.5/ext" />
+      </excluded>
+    </library>
     <library name="connection_pool (v2.2.2, RVM: ruby-2.5.5 [transparentclassroom]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -759,6 +888,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/connection_pool-2.2.2/test" />
+      </excluded>
+    </library>
+    <library name="connection_pool (v2.2.2, RVM: ruby-2.6.4 [i18n-migrations]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/connection_pool-2.2.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/connection_pool-2.2.2/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/connection_pool-2.2.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/connection_pool-2.2.2/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/connection_pool-2.2.2/test" />
       </excluded>
     </library>
     <library name="crass (v1.0.4, RVM: ruby-2.5.5 [transparentclassroom]) [gem]" type="rubylib">
@@ -787,6 +932,20 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/css_parser-1.6.0/lib" />
       </SOURCES>
+    </library>
+    <library name="csv (v3.0.9, RVM: ruby-2.6.4 [i18n-migrations]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/2.6.0/csv/core_ext" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/2.6.0/csv/core_ext" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/2.6.0/csv/core_ext" />
+      </excluded>
     </library>
     <library name="dalli (v2.7.6, RVM: ruby-2.5.5 [transparentclassroom]) [gem]" type="rubylib">
       <properties>
@@ -875,6 +1034,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/declarative-0.0.10/test" />
       </excluded>
     </library>
+    <library name="declarative (v0.0.10, RVM: ruby-2.6.4 [i18n-migrations]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/declarative-0.0.10/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/declarative-0.0.10/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/declarative-0.0.10/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/declarative-0.0.10/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/declarative-0.0.10/test" />
+      </excluded>
+    </library>
     <library name="declarative-option (v0.1.0, RVM: ruby-2.5.5 [transparentclassroom]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -889,6 +1064,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/declarative-option-0.1.0/test" />
+      </excluded>
+    </library>
+    <library name="declarative-option (v0.1.0, RVM: ruby-2.6.4 [i18n-migrations]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/declarative-option-0.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/declarative-option-0.1.0/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/declarative-option-0.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/declarative-option-0.1.0/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/declarative-option-0.1.0/test" />
       </excluded>
     </library>
     <library name="delayed_job (v4.1.5, RVM: ruby-2.5.5 [transparentclassroom]) [gem]" type="rubylib">
@@ -1073,6 +1264,31 @@
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.5/lib/ruby/gems/2.5.0/gems/did_you_mean-1.2.0/evaluation" />
       </excluded>
     </library>
+    <library name="did_you_mean (v1.3.0, RVM: ruby-2.6.4 [i18n-migrations]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/gems/2.6.0/gems/did_you_mean-1.3.0/doc" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/gems/2.6.0/gems/did_you_mean-1.3.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/gems/2.6.0/gems/did_you_mean-1.3.0/tmp" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/gems/2.6.0/gems/did_you_mean-1.3.0/test" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/gems/2.6.0/gems/did_you_mean-1.3.0/benchmark" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/gems/2.6.0/gems/did_you_mean-1.3.0/doc" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/gems/2.6.0/gems/did_you_mean-1.3.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/gems/2.6.0/gems/did_you_mean-1.3.0/tmp" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/gems/2.6.0/gems/did_you_mean-1.3.0/test" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/gems/2.6.0/gems/did_you_mean-1.3.0/benchmark" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/gems/2.6.0/gems/did_you_mean-1.3.0/doc" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/gems/2.6.0/gems/did_you_mean-1.3.0/tmp" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/gems/2.6.0/gems/did_you_mean-1.3.0/test" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/gems/2.6.0/gems/did_you_mean-1.3.0/benchmark" />
+      </excluded>
+    </library>
     <library name="diff-lcs (v1.3, RVM: ruby-2.4.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1123,6 +1339,31 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/diff-lcs-1.3/autotest" />
       </excluded>
     </library>
+    <library name="diff-lcs (v1.3, RVM: ruby-2.6.4 [i18n-migrations]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/diff-lcs-1.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/diff-lcs-1.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/diff-lcs-1.3/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/diff-lcs-1.3/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/diff-lcs-1.3/autotest" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/diff-lcs-1.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/diff-lcs-1.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/diff-lcs-1.3/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/diff-lcs-1.3/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/diff-lcs-1.3/autotest" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/diff-lcs-1.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/diff-lcs-1.3/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/diff-lcs-1.3/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/diff-lcs-1.3/autotest" />
+      </excluded>
+    </library>
     <library name="differ (v0.1.2, RVM: ruby-2.5.5 [transparentclassroom]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1159,6 +1400,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/domain_name-0.5.20180417/data" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/domain_name-0.5.20180417/test" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/domain_name-0.5.20180417/tool" />
+      </excluded>
+    </library>
+    <library name="domain_name (v0.5.20180417, RVM: ruby-2.6.4 [i18n-migrations]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/domain_name-0.5.20180417/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/domain_name-0.5.20180417/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/domain_name-0.5.20180417/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/domain_name-0.5.20180417/tool" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/domain_name-0.5.20180417/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/domain_name-0.5.20180417/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/domain_name-0.5.20180417/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/domain_name-0.5.20180417/tool" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/domain_name-0.5.20180417/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/domain_name-0.5.20180417/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/domain_name-0.5.20180417/tool" />
       </excluded>
     </library>
     <library name="domain_name (v0.5.20190701, RVM: ruby-2.5.5 [transparentclassroom]) [gem]" type="rubylib">
@@ -1201,6 +1464,13 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/draper-3.1.0/spec" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/draper-3.1.0/.github" />
       </excluded>
+    </library>
+    <library name="e2mmap (v0.1.0, RVM: ruby-2.6.4 [i18n-migrations]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES />
+      <SOURCES />
     </library>
     <library name="erubi (v1.8.0, RVM: ruby-2.5.5 [transparentclassroom]) [gem]" type="rubylib">
       <properties>
@@ -1315,6 +1585,34 @@
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.5/lib/ruby/gems/2.5.0/gems/executable-hooks-1.6.0/test-tf-truffleruby" />
       </excluded>
     </library>
+    <library name="executable-hooks (v1.6.0, RVM: ruby-2.6.4 [i18n-migrations]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/gems/2.6.0/gems/executable-hooks-1.6.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/gems/2.6.0/gems/executable-hooks-1.6.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/gems/2.6.0/gems/executable-hooks-1.6.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/gems/2.6.0/gems/executable-hooks-1.6.0/test-tf" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/gems/2.6.0/gems/executable-hooks-1.6.0/test-tf-bundle" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/gems/2.6.0/gems/executable-hooks-1.6.0/test-tf-truffleruby" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/gems/2.6.0/gems/executable-hooks-1.6.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/gems/2.6.0/gems/executable-hooks-1.6.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/gems/2.6.0/gems/executable-hooks-1.6.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/gems/2.6.0/gems/executable-hooks-1.6.0/test-tf" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/gems/2.6.0/gems/executable-hooks-1.6.0/test-tf-bundle" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/gems/2.6.0/gems/executable-hooks-1.6.0/test-tf-truffleruby" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/gems/2.6.0/gems/executable-hooks-1.6.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/gems/2.6.0/gems/executable-hooks-1.6.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/gems/2.6.0/gems/executable-hooks-1.6.0/test-tf" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/gems/2.6.0/gems/executable-hooks-1.6.0/test-tf-bundle" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/gems/2.6.0/gems/executable-hooks-1.6.0/test-tf-truffleruby" />
+      </excluded>
+    </library>
     <library name="exponent-server-sdk (v0.0.6, RVM: ruby-2.5.5 [transparentclassroom]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1351,6 +1649,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/faraday-0.15.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="faraday (v0.15.4, RVM: ruby-2.6.4 [i18n-migrations]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/faraday-0.15.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/faraday-0.15.4/lib" />
       </SOURCES>
     </library>
     <library name="faraday (v0.9.2, RVM: ruby-2.5.5 [transparentclassroom]) [gem]" type="rubylib">
@@ -1395,6 +1704,27 @@
       </excluded>
     </library>
     <library name="fiddle (v1.0.0, RVM: ruby-2.5.5 [transparentclassroom]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="fiddle (v1.0.0, RVM: ruby-2.6.4 [i18n-migrations]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="fileutils (v1.1.0, RVM: ruby-2.6.4 [i18n-migrations]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="forwardable (v1.2.0, RVM: ruby-2.6.4 [i18n-migrations]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
       </properties>
@@ -1456,6 +1786,25 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.5/lib/ruby/gems/2.5.0/gems/gem-wrappers-1.4.0/ext" />
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.5/lib/ruby/gems/2.5.0/gems/gem-wrappers-1.4.0/test" />
+      </excluded>
+    </library>
+    <library name="gem-wrappers (v1.4.0, RVM: ruby-2.6.4 [i18n-migrations]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/gems/2.6.0/gems/gem-wrappers-1.4.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/gems/2.6.0/gems/gem-wrappers-1.4.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/gems/2.6.0/gems/gem-wrappers-1.4.0/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/gems/2.6.0/gems/gem-wrappers-1.4.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/gems/2.6.0/gems/gem-wrappers-1.4.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/gems/2.6.0/gems/gem-wrappers-1.4.0/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/gems/2.6.0/gems/gem-wrappers-1.4.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/gems/2.6.0/gems/gem-wrappers-1.4.0/test" />
       </excluded>
     </library>
     <library name="geoip (v1.6.4, RVM: ruby-2.5.5 [transparentclassroom]) [gem]" type="rubylib">
@@ -1553,6 +1902,36 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/google-api-client-0.28.7/samples" />
       </excluded>
     </library>
+    <library name="google-api-client (v0.28.7, RVM: ruby-2.6.4 [i18n-migrations]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/google-api-client-0.28.7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/google-api-client-0.28.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/google-api-client-0.28.7/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/google-api-client-0.28.7/.kokoro" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/google-api-client-0.28.7/rakelib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/google-api-client-0.28.7/samples" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/google-api-client-0.28.7/generated" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/google-api-client-0.28.7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/google-api-client-0.28.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/google-api-client-0.28.7/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/google-api-client-0.28.7/.kokoro" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/google-api-client-0.28.7/rakelib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/google-api-client-0.28.7/samples" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/google-api-client-0.28.7/generated" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/google-api-client-0.28.7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/google-api-client-0.28.7/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/google-api-client-0.28.7/.kokoro" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/google-api-client-0.28.7/rakelib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/google-api-client-0.28.7/samples" />
+      </excluded>
+    </library>
     <library name="google_calendar (v0.6.2, RVM: ruby-2.5.5 [transparentclassroom]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1578,6 +1957,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/google_drive-3.0.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="google_drive (v3.0.2, RVM: ruby-2.6.4 [i18n-migrations]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/google_drive-3.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/google_drive-3.0.2/lib" />
       </SOURCES>
     </library>
     <library name="googleauth (v0.5.1, RVM: ruby-2.5.5 [transparentclassroom]) [gem]" type="rubylib">
@@ -1616,6 +2006,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/googleauth-0.8.1/spec" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/googleauth-0.8.1/.github" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/googleauth-0.8.1/.kokoro" />
+      </excluded>
+    </library>
+    <library name="googleauth (v0.8.1, RVM: ruby-2.6.4 [i18n-migrations]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/googleauth-0.8.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/googleauth-0.8.1/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/googleauth-0.8.1/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/googleauth-0.8.1/.kokoro" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/googleauth-0.8.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/googleauth-0.8.1/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/googleauth-0.8.1/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/googleauth-0.8.1/.kokoro" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/googleauth-0.8.1/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/googleauth-0.8.1/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/googleauth-0.8.1/.kokoro" />
       </excluded>
     </library>
     <library name="hashie (v3.5.5, RVM: ruby-2.5.5 [transparentclassroom]) [gem]" type="rubylib">
@@ -1691,6 +2103,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/http-cookie-1.0.3/test" />
       </excluded>
     </library>
+    <library name="http-cookie (v1.0.3, RVM: ruby-2.6.4 [i18n-migrations]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/http-cookie-1.0.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/http-cookie-1.0.3/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/http-cookie-1.0.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/http-cookie-1.0.3/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/http-cookie-1.0.3/test" />
+      </excluded>
+    </library>
     <library name="http_accept_language (v2.0.5, RVM: ruby-2.5.5 [transparentclassroom]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1756,6 +2184,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/httpclient-2.8.3/sample" />
       </excluded>
     </library>
+    <library name="httpclient (v2.8.3, RVM: ruby-2.6.4 [i18n-migrations]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/httpclient-2.8.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/httpclient-2.8.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/httpclient-2.8.3/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/httpclient-2.8.3/sample" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/httpclient-2.8.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/httpclient-2.8.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/httpclient-2.8.3/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/httpclient-2.8.3/sample" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/httpclient-2.8.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/httpclient-2.8.3/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/httpclient-2.8.3/sample" />
+      </excluded>
+    </library>
     <library name="i18n (v0.9.5, RVM: ruby-2.5.5 [transparentclassroom]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1784,6 +2234,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/i18n-1.6.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="i18n (v1.6.0, RVM: ruby-2.6.4 [i18n-migrations]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/i18n-1.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/i18n-1.6.0/lib" />
       </SOURCES>
     </library>
     <library name="i18n-country-translations (v1.2.4, RVM: ruby-2.5.5 [transparentclassroom]) [gem]" type="rubylib">
@@ -1821,6 +2282,25 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/i18n-js-3.2.3/spec" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/i18n-js-3.2.3/gemfiles" />
+      </excluded>
+    </library>
+    <library name="i18n-migrations (v1.1.1, RVM: ruby-2.6.4 [i18n-migrations]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/i18n-migrations-1.1.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/i18n-migrations-1.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/i18n-migrations-1.1.1/example" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/i18n-migrations-1.1.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/i18n-migrations-1.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/i18n-migrations-1.1.1/example" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/i18n-migrations-1.1.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/i18n-migrations-1.1.1/example" />
       </excluded>
     </library>
     <library name="i18n-migrations (v1.1.2, RVM: ruby-2.5.5 [transparentclassroom]) [gem]" type="rubylib">
@@ -1916,6 +2396,33 @@
       </properties>
       <CLASSES />
       <SOURCES />
+    </library>
+    <library name="io-console (v0.4.7, RVM: ruby-2.6.4 [i18n-migrations]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="irb (v1.0.0, RVM: ruby-2.6.4 [i18n-migrations]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/2.6.0/irb/lc" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/2.6.0/irb/cmd" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/2.6.0/irb/ext" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/2.6.0/irb/lc" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/2.6.0/irb/cmd" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/2.6.0/irb/ext" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/2.6.0/irb/lc" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/2.6.0/irb/cmd" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/2.6.0/irb/ext" />
+      </excluded>
     </library>
     <library name="jaro_winkler (v1.5.4, RVM: ruby-2.5.5 [transparentclassroom]) [gem]" type="rubylib">
       <properties>
@@ -2035,6 +2542,20 @@
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.5/lib/ruby/2.5.0/json/add" />
       </excluded>
     </library>
+    <library name="json (v2.1.0, RVM: ruby-2.6.4 [i18n-migrations]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/2.6.0/json/add" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/2.6.0/json/add" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/2.6.0/json/add" />
+      </excluded>
+    </library>
     <library name="jwt (v1.5.6, RVM: ruby-2.5.5 [transparentclassroom]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -2060,6 +2581,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/jwt-2.2.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="jwt (v2.2.1, RVM: ruby-2.6.4 [i18n-migrations]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/jwt-2.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/jwt-2.2.1/lib" />
       </SOURCES>
     </library>
     <library name="koala (v3.0.0, RVM: ruby-2.5.5 [transparentclassroom]) [gem]" type="rubylib">
@@ -2220,6 +2752,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/mail-2.7.1/lib" />
       </SOURCES>
     </library>
+    <library name="mail (v2.7.1, RVM: ruby-2.6.4 [i18n-migrations]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/mail-2.7.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/mail-2.7.1/lib" />
+      </SOURCES>
+    </library>
     <library name="makara (v0.4.1, RVM: ruby-2.5.5 [transparentclassroom]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -2250,6 +2793,13 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/marcel-0.3.3/lib" />
       </SOURCES>
     </library>
+    <library name="matrix (v0.1.0, RVM: ruby-2.6.4 [i18n-migrations]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="mechanize (v2.7.6, RVM: ruby-2.5.5 [transparentclassroom]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -2267,6 +2817,25 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/mechanize-2.7.6/test" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/mechanize-2.7.6/examples" />
+      </excluded>
+    </library>
+    <library name="mechanize (v2.7.6, RVM: ruby-2.6.4 [i18n-migrations]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/mechanize-2.7.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/mechanize-2.7.6/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/mechanize-2.7.6/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/mechanize-2.7.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/mechanize-2.7.6/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/mechanize-2.7.6/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/mechanize-2.7.6/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/mechanize-2.7.6/examples" />
       </excluded>
     </library>
     <library name="memcachier (v0.0.2, RVM: ruby-2.5.5 [transparentclassroom]) [gem]" type="rubylib">
@@ -2297,6 +2866,25 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/memoist-0.16.0/test" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/memoist-0.16.0/script" />
+      </excluded>
+    </library>
+    <library name="memoist (v0.16.0, RVM: ruby-2.6.4 [i18n-migrations]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/memoist-0.16.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/memoist-0.16.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/memoist-0.16.0/script" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/memoist-0.16.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/memoist-0.16.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/memoist-0.16.0/script" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/memoist-0.16.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/memoist-0.16.0/script" />
       </excluded>
     </library>
     <library name="method_source (v0.9.2, RVM: ruby-2.5.5 [transparentclassroom]) [gem]" type="rubylib">
@@ -2331,6 +2919,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/mime-0.4.4/test" />
       </excluded>
     </library>
+    <library name="mime (v0.4.4, RVM: ruby-2.6.4 [i18n-migrations]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/mime-0.4.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/mime-0.4.4/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/mime-0.4.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/mime-0.4.4/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/mime-0.4.4/test" />
+      </excluded>
+    </library>
     <library name="mime-types (v3.2.2, RVM: ruby-2.5.5 [transparentclassroom]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -2345,6 +2949,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/mime-types-3.2.2/test" />
+      </excluded>
+    </library>
+    <library name="mime-types (v3.2.2, RVM: ruby-2.6.4 [i18n-migrations]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/mime-types-3.2.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/mime-types-3.2.2/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/mime-types-3.2.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/mime-types-3.2.2/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/mime-types-3.2.2/test" />
       </excluded>
     </library>
     <library name="mime-types-data (v3.2019.0331, RVM: ruby-2.5.5 [transparentclassroom]) [gem]" type="rubylib">
@@ -2364,6 +2984,25 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/mime-types-data-3.2019.0331/data" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/mime-types-data-3.2019.0331/types" />
+      </excluded>
+    </library>
+    <library name="mime-types-data (v3.2019.0331, RVM: ruby-2.6.4 [i18n-migrations]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/mime-types-data-3.2019.0331/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/mime-types-data-3.2019.0331/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/mime-types-data-3.2019.0331/types" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/mime-types-data-3.2019.0331/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/mime-types-data-3.2019.0331/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/mime-types-data-3.2019.0331/types" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/mime-types-data-3.2019.0331/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/mime-types-data-3.2019.0331/types" />
       </excluded>
     </library>
     <library name="mimemagic (v0.3.3, RVM: ruby-2.5.5 [transparentclassroom]) [gem]" type="rubylib">
@@ -2404,6 +3043,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/mini_mime-1.0.1/bench" />
       </excluded>
     </library>
+    <library name="mini_mime (v1.0.1, RVM: ruby-2.6.4 [i18n-migrations]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/mini_mime-1.0.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/mini_mime-1.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/mini_mime-1.0.1/bench" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/mini_mime-1.0.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/mini_mime-1.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/mini_mime-1.0.1/bench" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/mini_mime-1.0.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/mini_mime-1.0.1/bench" />
+      </excluded>
+    </library>
     <library name="mini_portile2 (v2.4.0, RVM: ruby-2.5.5 [transparentclassroom]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -2421,6 +3079,25 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/mini_portile2-2.4.0/test" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/mini_portile2-2.4.0/concourse" />
+      </excluded>
+    </library>
+    <library name="mini_portile2 (v2.4.0, RVM: ruby-2.6.4 [i18n-migrations]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/mini_portile2-2.4.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/mini_portile2-2.4.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/mini_portile2-2.4.0/concourse" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/mini_portile2-2.4.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/mini_portile2-2.4.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/mini_portile2-2.4.0/concourse" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/mini_portile2-2.4.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/mini_portile2-2.4.0/concourse" />
       </excluded>
     </library>
     <library name="minitest (v5.10.1, RVM: ruby-2.4.1 [global]) [gem]" type="rubylib">
@@ -2487,6 +3164,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/minitest-5.11.3/test" />
       </excluded>
     </library>
+    <library name="minitest (v5.11.3, RVM: ruby-2.6.4 [i18n-migrations]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/gems/2.6.0/gems/minitest-5.11.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/gems/2.6.0/gems/minitest-5.11.3/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/gems/2.6.0/gems/minitest-5.11.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/gems/2.6.0/gems/minitest-5.11.3/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/gems/2.6.0/gems/minitest-5.11.3/test" />
+      </excluded>
+    </library>
     <library name="msgpack (v1.2.10, RVM: ruby-2.5.5 [transparentclassroom]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -2523,6 +3216,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/multi_json-1.13.1/lib" />
       </SOURCES>
     </library>
+    <library name="multi_json (v1.13.1, RVM: ruby-2.6.4 [i18n-migrations]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/multi_json-1.13.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/multi_json-1.13.1/lib" />
+      </SOURCES>
+    </library>
     <library name="multi_xml (v0.6.0, RVM: ruby-2.5.5 [transparentclassroom]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -2548,6 +3252,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/multipart-post-2.1.1/spec" />
+      </excluded>
+    </library>
+    <library name="multipart-post (v2.1.1, RVM: ruby-2.6.4 [i18n-migrations]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/multipart-post-2.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/multipart-post-2.1.1/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/multipart-post-2.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/multipart-post-2.1.1/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/multipart-post-2.1.1/spec" />
       </excluded>
     </library>
     <library name="mustermann (v1.0.3, RVM: ruby-2.5.5 [transparentclassroom]) [gem]" type="rubylib">
@@ -2604,6 +3324,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/net-http-digest_auth-1.4.1/sample" />
       </excluded>
     </library>
+    <library name="net-http-digest_auth (v1.4.1, RVM: ruby-2.6.4 [i18n-migrations]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/net-http-digest_auth-1.4.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/net-http-digest_auth-1.4.1/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/net-http-digest_auth-1.4.1/sample" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/net-http-digest_auth-1.4.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/net-http-digest_auth-1.4.1/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/net-http-digest_auth-1.4.1/sample" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/net-http-digest_auth-1.4.1/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/net-http-digest_auth-1.4.1/sample" />
+      </excluded>
+    </library>
     <library name="net-http-persistent (v3.0.1, RVM: ruby-2.5.5 [transparentclassroom]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -2618,6 +3357,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/net-http-persistent-3.0.1/test" />
+      </excluded>
+    </library>
+    <library name="net-http-persistent (v3.0.1, RVM: ruby-2.6.4 [i18n-migrations]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/net-http-persistent-3.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/net-http-persistent-3.0.1/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/net-http-persistent-3.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/net-http-persistent-3.0.1/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/net-http-persistent-3.0.1/test" />
       </excluded>
     </library>
     <library name="net-telnet (v0.1.1, RVM: ruby-2.4.1 [global]) [gem]" type="rubylib">
@@ -2668,6 +3423,22 @@
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.5/lib/ruby/gems/2.5.0/gems/net-telnet-0.1.1/bin" />
       </excluded>
     </library>
+    <library name="net-telnet (v0.2.0, RVM: ruby-2.6.4 [i18n-migrations]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/gems/2.6.0/gems/net-telnet-0.2.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/gems/2.6.0/gems/net-telnet-0.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/gems/2.6.0/gems/net-telnet-0.2.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/gems/2.6.0/gems/net-telnet-0.2.0/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/gems/2.6.0/gems/net-telnet-0.2.0/bin" />
+      </excluded>
+    </library>
     <library name="netrc (v0.11.0, RVM: ruby-2.5.5 [transparentclassroom]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -2685,6 +3456,25 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/netrc-0.11.0/data" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/netrc-0.11.0/test" />
+      </excluded>
+    </library>
+    <library name="netrc (v0.11.0, RVM: ruby-2.6.4 [i18n-migrations]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/netrc-0.11.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/netrc-0.11.0/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/netrc-0.11.0/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/netrc-0.11.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/netrc-0.11.0/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/netrc-0.11.0/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/netrc-0.11.0/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/netrc-0.11.0/test" />
       </excluded>
     </library>
     <library name="newrelic_rpm (v4.1.0.333, RVM: ruby-2.5.5 [transparentclassroom]) [gem]" type="rubylib">
@@ -2762,6 +3552,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/nokogiri-1.10.3/patches" />
       </excluded>
     </library>
+    <library name="nokogiri (v1.10.3, RVM: ruby-2.6.4 [i18n-migrations]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/nokogiri-1.10.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/nokogiri-1.10.3/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/nokogiri-1.10.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/nokogiri-1.10.3/patches" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/nokogiri-1.10.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/nokogiri-1.10.3/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/nokogiri-1.10.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/nokogiri-1.10.3/patches" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/nokogiri-1.10.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/nokogiri-1.10.3/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/nokogiri-1.10.3/patches" />
+      </excluded>
+    </library>
     <library name="ntlm-http (v0.1.1, RVM: ruby-2.5.5 [transparentclassroom]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -2779,6 +3591,25 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/ntlm-http-0.1.1/test" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/ntlm-http-0.1.1/examples" />
+      </excluded>
+    </library>
+    <library name="ntlm-http (v0.1.1, RVM: ruby-2.6.4 [i18n-migrations]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/ntlm-http-0.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/ntlm-http-0.1.1/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/ntlm-http-0.1.1/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/ntlm-http-0.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/ntlm-http-0.1.1/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/ntlm-http-0.1.1/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/ntlm-http-0.1.1/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/ntlm-http-0.1.1/examples" />
       </excluded>
     </library>
     <library name="oauth (v0.5.2, RVM: ruby-2.5.5 [transparentclassroom]) [gem]" type="rubylib">
@@ -2899,6 +3730,13 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="openssl (v2.1.2, RVM: ruby-2.6.4 [i18n-migrations]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="orm_adapter (v0.5.0, RVM: ruby-2.5.5 [transparentclassroom]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -2954,6 +3792,25 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/os-1.0.1/spec" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/os-1.0.1/autotest" />
+      </excluded>
+    </library>
+    <library name="os (v1.0.1, RVM: ruby-2.6.4 [i18n-migrations]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/os-1.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/os-1.0.1/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/os-1.0.1/autotest" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/os-1.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/os-1.0.1/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/os-1.0.1/autotest" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/os-1.0.1/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/os-1.0.1/autotest" />
       </excluded>
     </library>
     <library name="paper_trail (v9.2.0, RVM: ruby-2.5.5 [transparentclassroom]) [gem]" type="rubylib">
@@ -3130,6 +3987,22 @@
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.5/lib/ruby/gems/2.5.0/gems/power_assert-1.1.1/bin" />
       </excluded>
     </library>
+    <library name="power_assert (v1.1.3, RVM: ruby-2.6.4 [i18n-migrations]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/gems/2.6.0/gems/power_assert-1.1.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/gems/2.6.0/gems/power_assert-1.1.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/gems/2.6.0/gems/power_assert-1.1.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/gems/2.6.0/gems/power_assert-1.1.3/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/gems/2.6.0/gems/power_assert-1.1.3/bin" />
+      </excluded>
+    </library>
     <library name="premailer (v1.11.0, RVM: ruby-2.5.5 [transparentclassroom]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -3237,6 +4110,29 @@
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.5/lib/ruby/2.5.0/psych/visitors" />
       </excluded>
     </library>
+    <library name="psych (v3.1.0, RVM: ruby-2.6.4 [i18n-migrations]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/2.6.0/psych/json" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/2.6.0/psych/nodes" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/2.6.0/psych/handlers" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/2.6.0/psych/visitors" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/2.6.0/psych/json" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/2.6.0/psych/nodes" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/2.6.0/psych/handlers" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/2.6.0/psych/visitors" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/2.6.0/psych/json" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/2.6.0/psych/nodes" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/2.6.0/psych/handlers" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/2.6.0/psych/visitors" />
+      </excluded>
+    </library>
     <library name="public_suffix (v3.0.3, RVM: ruby-2.5.5 [transparentclassroom]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -3279,6 +4175,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/public_suffix-3.1.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/public_suffix-3.1.0/data" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/public_suffix-3.1.0/test" />
+      </excluded>
+    </library>
+    <library name="public_suffix (v3.1.0, RVM: ruby-2.6.4 [i18n-migrations]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/public_suffix-3.1.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/public_suffix-3.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/public_suffix-3.1.0/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/public_suffix-3.1.0/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/public_suffix-3.1.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/public_suffix-3.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/public_suffix-3.1.0/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/public_suffix-3.1.0/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/public_suffix-3.1.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/public_suffix-3.1.0/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/public_suffix-3.1.0/test" />
       </excluded>
     </library>
     <library name="puma (v3.12.0, RVM: ruby-2.5.5 [transparentclassroom]) [gem]" type="rubylib">
@@ -3533,6 +4451,31 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/rake-10.5.0/rakelib" />
       </excluded>
     </library>
+    <library name="rake (v10.5.0, RVM: ruby-2.6.4 [i18n-migrations]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/rake-10.5.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/rake-10.5.0/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/rake-10.5.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/rake-10.5.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/rake-10.5.0/rakelib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/rake-10.5.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/rake-10.5.0/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/rake-10.5.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/rake-10.5.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/rake-10.5.0/rakelib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/rake-10.5.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/rake-10.5.0/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/rake-10.5.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/rake-10.5.0/rakelib" />
+      </excluded>
+    </library>
     <library name="rake (v12.0.0, RVM: ruby-2.4.1 [global]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -3619,6 +4562,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/rake-12.3.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/rake-12.3.2/doc" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/rake-12.3.2/exe" />
+      </excluded>
+    </library>
+    <library name="rake (v12.3.2, RVM: ruby-2.6.4 [i18n-migrations]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/gems/2.6.0/gems/rake-12.3.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/gems/2.6.0/gems/rake-12.3.2/doc" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/gems/2.6.0/gems/rake-12.3.2/exe" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/gems/2.6.0/gems/rake-12.3.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/gems/2.6.0/gems/rake-12.3.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/gems/2.6.0/gems/rake-12.3.2/doc" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/gems/2.6.0/gems/rake-12.3.2/exe" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/gems/2.6.0/gems/rake-12.3.2/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/gems/2.6.0/gems/rake-12.3.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/gems/2.6.0/gems/rake-12.3.2/doc" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/gems/2.6.0/gems/rake-12.3.2/exe" />
       </excluded>
     </library>
     <library name="rdoc (v5.0.0, RVM: ruby-2.4.1 [global]) [gem]" type="rubylib">
@@ -3735,6 +4700,44 @@
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.5/lib/ruby/2.5.0/rdoc/generator" />
       </excluded>
     </library>
+    <library name="rdoc (v6.1.2, RVM: ruby-2.6.4 [i18n-migrations]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/2.6.0/rdoc/rd" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/2.6.0/rdoc/ri" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/2.6.0/rdoc/i18n" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/2.6.0/rdoc/stats" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/2.6.0/rdoc/markup" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/2.6.0/rdoc/parser" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/2.6.0/rdoc/context" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/2.6.0/rdoc/markdown" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/2.6.0/rdoc/generator" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/2.6.0/rdoc/rd" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/2.6.0/rdoc/ri" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/2.6.0/rdoc/i18n" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/2.6.0/rdoc/stats" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/2.6.0/rdoc/markup" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/2.6.0/rdoc/parser" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/2.6.0/rdoc/context" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/2.6.0/rdoc/markdown" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/2.6.0/rdoc/generator" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/2.6.0/rdoc/rd" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/2.6.0/rdoc/ri" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/2.6.0/rdoc/i18n" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/2.6.0/rdoc/stats" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/2.6.0/rdoc/markup" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/2.6.0/rdoc/parser" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/2.6.0/rdoc/context" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/2.6.0/rdoc/markdown" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/2.6.0/rdoc/generator" />
+      </excluded>
+    </library>
     <library name="recaptcha (v4.13.1, RVM: ruby-2.5.5 [transparentclassroom]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -3789,6 +4792,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/representable-3.0.4/test" />
       </excluded>
     </library>
+    <library name="representable (v3.0.4, RVM: ruby-2.6.4 [i18n-migrations]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/representable-3.0.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/representable-3.0.4/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/representable-3.0.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/representable-3.0.4/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/representable-3.0.4/test" />
+      </excluded>
+    </library>
     <library name="request_store (v1.4.1, RVM: ruby-2.5.5 [transparentclassroom]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -3835,6 +4854,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/rest-client-2.0.2/spec" />
       </excluded>
     </library>
+    <library name="rest-client (v2.0.2, RVM: ruby-2.6.4 [i18n-migrations]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/rest-client-2.0.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/rest-client-2.0.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/rest-client-2.0.2/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/rest-client-2.0.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/rest-client-2.0.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/rest-client-2.0.2/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/rest-client-2.0.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/rest-client-2.0.2/spec" />
+      </excluded>
+    </library>
     <library name="retriable (v3.1.2, RVM: ruby-2.5.5 [transparentclassroom]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -3849,6 +4887,48 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/retriable-3.1.2/spec" />
+      </excluded>
+    </library>
+    <library name="retriable (v3.1.2, RVM: ruby-2.6.4 [i18n-migrations]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/retriable-3.1.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/retriable-3.1.2/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/retriable-3.1.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/retriable-3.1.2/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/retriable-3.1.2/spec" />
+      </excluded>
+    </library>
+    <library name="rexml (v3.1.9, RVM: ruby-2.6.4 [i18n-migrations]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/2.6.0/rexml/dtd" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/2.6.0/rexml/light" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/2.6.0/rexml/parsers" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/2.6.0/rexml/formatters" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/2.6.0/rexml/validation" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/2.6.0/rexml/dtd" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/2.6.0/rexml/light" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/2.6.0/rexml/parsers" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/2.6.0/rexml/formatters" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/2.6.0/rexml/validation" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/2.6.0/rexml/dtd" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/2.6.0/rexml/light" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/2.6.0/rexml/parsers" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/2.6.0/rexml/formatters" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/2.6.0/rexml/validation" />
       </excluded>
     </library>
     <library name="rollbar (v2.19.4, RVM: ruby-2.5.5 [transparentclassroom]) [gem]" type="rubylib">
@@ -3887,6 +4967,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/rspec-3.8.0/lib" />
       </SOURCES>
     </library>
+    <library name="rspec (v3.8.0, RVM: ruby-2.6.4 [i18n-migrations]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/rspec-3.8.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/rspec-3.8.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec-core (v3.8.0, RVM: ruby-2.5.5 [transparentclassroom]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -3903,6 +4994,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/rspec-core-3.8.0/exe" />
       </excluded>
     </library>
+    <library name="rspec-core (v3.8.0, RVM: ruby-2.6.4 [i18n-migrations]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/rspec-core-3.8.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/rspec-core-3.8.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/rspec-core-3.8.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/rspec-core-3.8.0/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/rspec-core-3.8.0/exe" />
+      </excluded>
+    </library>
     <library name="rspec-expectations (v3.8.3, RVM: ruby-2.5.5 [transparentclassroom]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -3914,6 +5021,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/rspec-expectations-3.8.3/lib" />
       </SOURCES>
     </library>
+    <library name="rspec-expectations (v3.8.3, RVM: ruby-2.6.4 [i18n-migrations]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/rspec-expectations-3.8.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/rspec-expectations-3.8.3/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec-mocks (v3.8.0, RVM: ruby-2.5.5 [transparentclassroom]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -3923,6 +5041,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/rspec-mocks-3.8.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-mocks (v3.8.0, RVM: ruby-2.6.4 [i18n-migrations]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/rspec-mocks-3.8.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/rspec-mocks-3.8.0/lib" />
       </SOURCES>
     </library>
     <library name="rspec-rails (v3.8.2, RVM: ruby-2.5.5 [transparentclassroom]) [gem]" type="rubylib">
@@ -3946,6 +5075,37 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/rspec-support-3.8.0/lib" />
       </SOURCES>
+    </library>
+    <library name="rspec-support (v3.8.0, RVM: ruby-2.6.4 [i18n-migrations]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/rspec-support-3.8.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/rspec-support-3.8.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rss (v0.2.7, RVM: ruby-2.6.4 [i18n-migrations]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/2.6.0/rss/maker" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/2.6.0/rss/content" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/2.6.0/rss/dublincore" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/2.6.0/rss/maker" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/2.6.0/rss/content" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/2.6.0/rss/dublincore" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/2.6.0/rss/maker" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/2.6.0/rss/content" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/2.6.0/rss/dublincore" />
+      </excluded>
     </library>
     <library name="rubocop (v0.75.1, RVM: ruby-2.5.5 [transparentclassroom]) [gem]" type="rubylib">
       <properties>
@@ -4048,6 +5208,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/ruby-gmail-0.3.1/test" />
       </excluded>
     </library>
+    <library name="ruby-gmail (v0.3.1, RVM: ruby-2.6.4 [i18n-migrations]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/ruby-gmail-0.3.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/ruby-gmail-0.3.1/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/ruby-gmail-0.3.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/ruby-gmail-0.3.1/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/ruby-gmail-0.3.1/test" />
+      </excluded>
+    </library>
     <library name="ruby-progressbar (v1.10.1, RVM: ruby-2.5.5 [transparentclassroom]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -4129,6 +5305,22 @@
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.5/lib/ruby/gems/2.5.0/gems/rubygems-bundler-1.4.5/test" />
       </excluded>
     </library>
+    <library name="rubygems-bundler (v1.4.5, RVM: ruby-2.6.4 [i18n-migrations]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/gems/2.6.0/gems/rubygems-bundler-1.4.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/gems/2.6.0/gems/rubygems-bundler-1.4.5/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/gems/2.6.0/gems/rubygems-bundler-1.4.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/gems/2.6.0/gems/rubygems-bundler-1.4.5/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/gems/2.6.0/gems/rubygems-bundler-1.4.5/test" />
+      </excluded>
+    </library>
     <library name="rvm (v1.11.3.9, RVM: ruby-2.4.1 [global]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -4160,6 +5352,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.5/lib/ruby/gems/2.5.0/gems/rvm-1.11.3.9/lib" />
+      </SOURCES>
+    </library>
+    <library name="rvm (v1.11.3.9, RVM: ruby-2.6.4 [i18n-migrations]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/gems/2.6.0/gems/rvm-1.11.3.9/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/gems/2.6.0/gems/rvm-1.11.3.9/lib" />
       </SOURCES>
     </library>
     <library name="scout_apm (v2.6.1, RVM: ruby-2.5.5 [transparentclassroom]) [gem]" type="rubylib">
@@ -4288,6 +5491,24 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/shared-mime-info-0.2.5/lib" />
       </SOURCES>
     </library>
+    <library name="shared-mime-info (v0.2.5, RVM: ruby-2.6.4 [i18n-migrations]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/shared-mime-info-0.2.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/shared-mime-info-0.2.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="shell (v0.7, RVM: ruby-2.6.4 [i18n-migrations]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="signet (v0.11.0, RVM: ruby-2.5.5 [transparentclassroom]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -4308,6 +5529,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/signet-0.11.0/spec" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/signet-0.11.0/tasks" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/signet-0.11.0/website" />
+      </excluded>
+    </library>
+    <library name="signet (v0.11.0, RVM: ruby-2.6.4 [i18n-migrations]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/signet-0.11.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/signet-0.11.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/signet-0.11.0/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/signet-0.11.0/website" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/signet-0.11.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/signet-0.11.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/signet-0.11.0/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/signet-0.11.0/website" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/signet-0.11.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/signet-0.11.0/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/signet-0.11.0/website" />
       </excluded>
     </library>
     <library name="simple_oauth (v0.1.9, RVM: ruby-2.5.5 [transparentclassroom]) [gem]" type="rubylib">
@@ -4571,6 +5814,28 @@
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.5/lib/ruby/gems/2.5.0/gems/test-unit-3.2.7/sample" />
       </excluded>
     </library>
+    <library name="test-unit (v3.2.9, RVM: ruby-2.6.4 [i18n-migrations]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/gems/2.6.0/gems/test-unit-3.2.9/doc" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/gems/2.6.0/gems/test-unit-3.2.9/lib" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/gems/2.6.0/gems/test-unit-3.2.9/test" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/gems/2.6.0/gems/test-unit-3.2.9/sample" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/gems/2.6.0/gems/test-unit-3.2.9/doc" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/gems/2.6.0/gems/test-unit-3.2.9/lib" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/gems/2.6.0/gems/test-unit-3.2.9/test" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/gems/2.6.0/gems/test-unit-3.2.9/sample" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/gems/2.6.0/gems/test-unit-3.2.9/doc" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/gems/2.6.0/gems/test-unit-3.2.9/test" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/gems/2.6.0/gems/test-unit-3.2.9/sample" />
+      </excluded>
+    </library>
     <library name="thor (v0.20.3, RVM: ruby-2.5.5 [transparentclassroom]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -4614,6 +5879,41 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/thread_safe-0.3.6/examples" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/thread_safe-0.3.6/yard-template" />
       </excluded>
+    </library>
+    <library name="thread_safe (v0.3.6, RVM: ruby-2.6.4 [i18n-migrations]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/thread_safe-0.3.6/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/thread_safe-0.3.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/thread_safe-0.3.6/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/thread_safe-0.3.6/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/thread_safe-0.3.6/examples" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/thread_safe-0.3.6/yard-template" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/thread_safe-0.3.6/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/thread_safe-0.3.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/thread_safe-0.3.6/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/thread_safe-0.3.6/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/thread_safe-0.3.6/examples" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/thread_safe-0.3.6/yard-template" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/thread_safe-0.3.6/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/thread_safe-0.3.6/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/thread_safe-0.3.6/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/thread_safe-0.3.6/examples" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/thread_safe-0.3.6/yard-template" />
+      </excluded>
+    </library>
+    <library name="thwait (v0.1.0, RVM: ruby-2.6.4 [i18n-migrations]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES />
+      <SOURCES />
     </library>
     <library name="tilt (v2.0.9, RVM: ruby-2.5.5 [transparentclassroom]) [gem]" type="rubylib">
       <properties>
@@ -4678,6 +5978,13 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/tinder-1.10.1/spec" />
       </excluded>
     </library>
+    <library name="tracer (v0.1.0, RVM: ruby-2.6.4 [i18n-migrations]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="twitter-stream (v0.1.16, RVM: ruby-2.5.5 [transparentclassroom]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -4735,6 +6042,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/tzinfo-1.2.5/test" />
       </excluded>
     </library>
+    <library name="tzinfo (v1.2.5, RVM: ruby-2.6.4 [i18n-migrations]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/tzinfo-1.2.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/tzinfo-1.2.5/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/tzinfo-1.2.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/tzinfo-1.2.5/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/tzinfo-1.2.5/test" />
+      </excluded>
+    </library>
     <library name="uber (v0.1.0, RVM: ruby-2.5.5 [transparentclassroom]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -4751,6 +6074,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/uber-0.1.0/test" />
       </excluded>
     </library>
+    <library name="uber (v0.1.0, RVM: ruby-2.6.4 [i18n-migrations]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/uber-0.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/uber-0.1.0/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/uber-0.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/uber-0.1.0/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/uber-0.1.0/test" />
+      </excluded>
+    </library>
     <library name="unf (v0.1.4, RVM: ruby-2.5.5 [transparentclassroom]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -4765,6 +6104,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/unf-0.1.4/test" />
+      </excluded>
+    </library>
+    <library name="unf (v0.1.4, RVM: ruby-2.6.4 [i18n-migrations]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/unf-0.1.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/unf-0.1.4/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/unf-0.1.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/unf-0.1.4/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/unf-0.1.4/test" />
       </excluded>
     </library>
     <library name="unf_ext (v0.0.7.6, RVM: ruby-2.5.5 [transparentclassroom]) [gem]" type="rubylib">
@@ -4784,6 +6139,25 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/unf_ext-0.0.7.6/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/unf_ext-0.0.7.6/test" />
+      </excluded>
+    </library>
+    <library name="unf_ext (v0.0.7.6, RVM: ruby-2.6.4 [i18n-migrations]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/unf_ext-0.0.7.6/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/unf_ext-0.0.7.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/unf_ext-0.0.7.6/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/unf_ext-0.0.7.6/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/unf_ext-0.0.7.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/unf_ext-0.0.7.6/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/unf_ext-0.0.7.6/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/unf_ext-0.0.7.6/test" />
       </excluded>
     </library>
     <library name="unicode-display_width (v1.6.0, RVM: ruby-2.5.5 [transparentclassroom]) [gem]" type="rubylib">
@@ -4830,6 +6204,23 @@
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.5/lib/ruby/2.5.0/webrick/httpservlet" />
       </excluded>
     </library>
+    <library name="webrick (v1.4.2, RVM: ruby-2.6.4 [i18n-migrations]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/2.6.0/webrick/httpauth" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/2.6.0/webrick/httpservlet" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/2.6.0/webrick/httpauth" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/2.6.0/webrick/httpservlet" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/2.6.0/webrick/httpauth" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/2.6.0/webrick/httpservlet" />
+      </excluded>
+    </library>
     <library name="webrobots (v0.1.2, RVM: ruby-2.5.5 [transparentclassroom]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -4844,6 +6235,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@transparentclassroom/gems/webrobots-0.1.2/test" />
+      </excluded>
+    </library>
+    <library name="webrobots (v0.1.2, RVM: ruby-2.6.4 [i18n-migrations]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/webrobots-0.1.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/webrobots-0.1.2/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/webrobots-0.1.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/webrobots-0.1.2/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4@i18n-migrations/gems/webrobots-0.1.2/test" />
       </excluded>
     </library>
     <library name="websocket-driver (v0.7.0, RVM: ruby-2.5.5 [transparentclassroom]) [gem]" type="rubylib">
@@ -4935,6 +6342,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.5/lib/ruby/gems/2.5.0/gems/xmlrpc-0.3.0/bin" />
+      </excluded>
+    </library>
+    <library name="xmlrpc (v0.3.0, RVM: ruby-2.6.4 [i18n-migrations]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/gems/2.6.0/gems/xmlrpc-0.3.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/gems/2.6.0/gems/xmlrpc-0.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/gems/2.6.0/gems/xmlrpc-0.3.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/gems/2.6.0/gems/xmlrpc-0.3.0/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/gems/2.6.0/gems/xmlrpc-0.3.0/bin" />
       </excluded>
     </library>
   </component>
