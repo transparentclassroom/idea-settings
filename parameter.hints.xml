@@ -8,5 +8,11 @@
       </blacklist>
       <blacklist language="Ruby" />
     </blacklists>
+    <disabledLanguages>
+      <language id="TypeScript" />
+      <language id="JavaScript" />
+      <language id="ruby" />
+      <language id="SQL" />
+    </disabledLanguages>
   </component>
 </application>
