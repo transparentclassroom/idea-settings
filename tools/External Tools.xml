@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="Rubocop" description="Autocorrects with Rubocop for current file" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$ProjectFileDir$/bin/rubocop" />
+      <option name="PARAMETERS" value="-a -S $FilePath$" />
+      <option name="WORKING_DIRECTORY" value="$FileDir$" />
+    </exec>
+  </tool>
+</toolSet>
