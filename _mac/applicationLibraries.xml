@@ -3748,10 +3748,12 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/jaro_winkler/1.5.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5/gems/jaro_winkler-1.5.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5/gems/jaro_winkler-1.5.4/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/jaro_winkler/1.5.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5/gems/jaro_winkler-1.5.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5/gems/jaro_winkler-1.5.4/lib" />
       </SOURCES>
