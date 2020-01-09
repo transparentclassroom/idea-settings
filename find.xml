@@ -19,5 +19,6 @@
     <mask>*js*</mask>
     <mask>*.html.erb</mask>
     <mask>*.rb</mask>
+    <mask>*.erb</mask>
   </component>
 </application>
