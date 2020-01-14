@@ -870,6 +870,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/debase-0.2.4.1/test" />
       </excluded>
     </library>
+    <library name="debase (v0.3.0.beta19, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/debase-0.3.0.beta19/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/debase-0.3.0.beta19/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/debase-0.3.0.beta19/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/debase-0.3.0.beta19/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/debase-0.3.0.beta19/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/debase-0.3.0.beta19/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/debase-0.3.0.beta19/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/debase-0.3.0.beta19/test" />
+      </excluded>
+    </library>
     <library name="debase-ruby_core_source (v0.10.5, RVM: ruby-2.6.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -4263,6 +4282,25 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ruby-debug-ide-0.7.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ruby-debug-ide-0.7.0/ext" />
+      </excluded>
+    </library>
+    <library name="ruby-debug-ide (v0.8.0.beta19, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ruby-debug-ide-0.8.0.beta19/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ruby-debug-ide-0.8.0.beta19/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ruby-debug-ide-0.8.0.beta19/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ruby-debug-ide-0.8.0.beta19/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ruby-debug-ide-0.8.0.beta19/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ruby-debug-ide-0.8.0.beta19/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ruby-debug-ide-0.8.0.beta19/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ruby-debug-ide-0.8.0.beta19/ext" />
       </excluded>
     </library>
     <library name="ruby-gmail (v0.3.1, RVM: ruby-2.6.5) [gem]" type="rubylib">
