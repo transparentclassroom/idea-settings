@@ -76,6 +76,9 @@
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
   <action id="InsertRubyInjectionWithoutOutput" />
+  <action id="Macro.Pad with spaces">
+    <keyboard-shortcut first-keystroke="shift meta space" />
+  </action>
   <action id="Macro.comma anchor">
     <keyboard-shortcut first-keystroke="shift meta comma" />
   </action>

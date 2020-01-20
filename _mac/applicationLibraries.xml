@@ -707,22 +707,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/concurrent-ruby-1.1.5/ext" />
       </excluded>
     </library>
-    <library name="connection_pool (v2.2.2, RVM: ruby-2.6.5) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/connection_pool-2.2.2/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/connection_pool-2.2.2/test" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/connection_pool-2.2.2/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/connection_pool-2.2.2/test" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/connection_pool-2.2.2/test" />
-      </excluded>
-    </library>
     <library name="crass (v1.0.4, RVM: ruby-2.6.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -836,6 +820,25 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/debase-0.2.4.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/debase-0.2.4.1/test" />
+      </excluded>
+    </library>
+    <library name="debase (v0.3.0.beta19, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/debase-0.3.0.beta19/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/debase-0.3.0.beta19/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/debase-0.3.0.beta19/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/debase-0.3.0.beta19/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/debase-0.3.0.beta19/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/debase-0.3.0.beta19/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/debase-0.3.0.beta19/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/debase-0.3.0.beta19/test" />
       </excluded>
     </library>
     <library name="debase-ruby_core_source (v0.10.5, RVM: ruby-2.6.5) [gem]" type="rubylib">
@@ -1347,17 +1350,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/fake_s3-0.9/lib" />
       </SOURCES>
     </library>
-    <library name="faraday (v0.15.4, RVM: ruby-2.6.5) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/faraday-0.15.4/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/faraday-0.15.4/lib" />
-      </SOURCES>
-    </library>
     <library name="faraday (v0.9.2, RVM: ruby-2.6.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1638,28 +1630,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/googleauth-0.5.1/spec" />
       </excluded>
     </library>
-    <library name="googleauth (v0.8.1, RVM: ruby-2.6.5) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/googleauth-0.8.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/googleauth-0.8.1/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/googleauth-0.8.1/.github" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/googleauth-0.8.1/.kokoro" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/googleauth-0.8.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/googleauth-0.8.1/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/googleauth-0.8.1/.github" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/googleauth-0.8.1/.kokoro" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/googleauth-0.8.1/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/googleauth-0.8.1/.github" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/googleauth-0.8.1/.kokoro" />
-      </excluded>
-    </library>
     <library name="hashie (v3.5.5, RVM: ruby-2.6.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1816,17 +1786,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/i18n-0.9.5/test" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/i18n-0.9.5/gemfiles" />
       </excluded>
-    </library>
-    <library name="i18n (v1.6.0, RVM: ruby-2.6.5) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/i18n-1.6.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/i18n-1.6.0/lib" />
-      </SOURCES>
     </library>
     <library name="i18n-country-translations (v1.2.4, RVM: ruby-2.6.5) [gem]" type="rubylib">
       <properties>
@@ -2145,17 +2104,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/jwt-1.5.6/spec" />
       </excluded>
     </library>
-    <library name="jwt (v2.2.1, RVM: ruby-2.6.5) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/jwt-2.2.1/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/jwt-2.2.1/lib" />
-      </SOURCES>
-    </library>
     <library name="koala (v3.0.0, RVM: ruby-2.6.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -2365,25 +2313,6 @@
       <CLASSES />
       <SOURCES />
     </library>
-    <library name="mechanize (v2.7.6, RVM: ruby-2.6.5) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/mechanize-2.7.6/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/mechanize-2.7.6/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/mechanize-2.7.6/examples" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/mechanize-2.7.6/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/mechanize-2.7.6/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/mechanize-2.7.6/examples" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/mechanize-2.7.6/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/mechanize-2.7.6/examples" />
-      </excluded>
-    </library>
     <library name="memcachier (v0.0.2, RVM: ruby-2.6.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -2428,22 +2357,6 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/method_source-0.9.2/spec" />
-      </excluded>
-    </library>
-    <library name="mime (v0.4.4, RVM: ruby-2.6.5) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/mime-0.4.4/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/mime-0.4.4/test" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/mime-0.4.4/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/mime-0.4.4/test" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/mime-0.4.4/test" />
       </excluded>
     </library>
     <library name="mime-types (v3.2.2, RVM: ruby-2.6.5) [gem]" type="rubylib">
@@ -2684,41 +2597,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/neatjson-0.8.3/test" />
       </excluded>
     </library>
-    <library name="net-http-digest_auth (v1.4.1, RVM: ruby-2.6.5) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/net-http-digest_auth-1.4.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/net-http-digest_auth-1.4.1/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/net-http-digest_auth-1.4.1/sample" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/net-http-digest_auth-1.4.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/net-http-digest_auth-1.4.1/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/net-http-digest_auth-1.4.1/sample" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/net-http-digest_auth-1.4.1/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/net-http-digest_auth-1.4.1/sample" />
-      </excluded>
-    </library>
-    <library name="net-http-persistent (v3.0.1, RVM: ruby-2.6.5) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/net-http-persistent-3.0.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/net-http-persistent-3.0.1/test" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/net-http-persistent-3.0.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/net-http-persistent-3.0.1/test" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/net-http-persistent-3.0.1/test" />
-      </excluded>
-    </library>
     <library name="net-telnet (v0.2.0, RVM: ruby-2.6.5 [crowd_translate]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -2815,25 +2693,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/nokogiri-1.10.3/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/nokogiri-1.10.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/nokogiri-1.10.3/patches" />
-      </excluded>
-    </library>
-    <library name="ntlm-http (v0.1.1, RVM: ruby-2.6.5) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ntlm-http-0.1.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ntlm-http-0.1.1/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ntlm-http-0.1.1/examples" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ntlm-http-0.1.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ntlm-http-0.1.1/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ntlm-http-0.1.1/examples" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ntlm-http-0.1.1/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ntlm-http-0.1.1/examples" />
       </excluded>
     </library>
     <library name="oauth (v0.5.2, RVM: ruby-2.6.5) [gem]" type="rubylib">
@@ -2997,25 +2856,6 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/os-0.9.6/spec" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/os-0.9.6/autotest" />
-      </excluded>
-    </library>
-    <library name="os (v1.0.1, RVM: ruby-2.6.5) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/os-1.0.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/os-1.0.1/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/os-1.0.1/autotest" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/os-1.0.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/os-1.0.1/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/os-1.0.1/autotest" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/os-1.0.1/spec" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/os-1.0.1/autotest" />
       </excluded>
     </library>
     <library name="paper_trail (v9.2.0, RVM: ruby-2.6.5) [gem]" type="rubylib">
@@ -3276,28 +3116,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/public_suffix-3.0.3/test" />
       </excluded>
     </library>
-    <library name="public_suffix (v3.1.0, RVM: ruby-2.6.5) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/public_suffix-3.1.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/public_suffix-3.1.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/public_suffix-3.1.0/data" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/public_suffix-3.1.0/test" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/public_suffix-3.1.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/public_suffix-3.1.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/public_suffix-3.1.0/data" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/public_suffix-3.1.0/test" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/public_suffix-3.1.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/public_suffix-3.1.0/data" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/public_suffix-3.1.0/test" />
-      </excluded>
-    </library>
     <library name="puma (v4.1.0, RVM: ruby-2.6.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -3505,31 +3323,6 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/rainbow-3.0.0/spec" />
-      </excluded>
-    </library>
-    <library name="rake (v10.5.0, RVM: ruby-2.6.5) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/rake-10.5.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/rake-10.5.0/doc" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/rake-10.5.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/rake-10.5.0/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/rake-10.5.0/rakelib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/rake-10.5.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/rake-10.5.0/doc" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/rake-10.5.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/rake-10.5.0/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/rake-10.5.0/rakelib" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/rake-10.5.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/rake-10.5.0/doc" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/rake-10.5.0/test" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/rake-10.5.0/rakelib" />
       </excluded>
     </library>
     <library name="rake (v12.3.2, RVM: ruby-2.6.5 [crowd_translate]) [gem]" type="rubylib">
@@ -4000,6 +3793,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ruby-debug-ide-0.7.0/ext" />
       </excluded>
     </library>
+    <library name="ruby-debug-ide (v0.8.0.beta19, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ruby-debug-ide-0.8.0.beta19/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ruby-debug-ide-0.8.0.beta19/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ruby-debug-ide-0.8.0.beta19/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ruby-debug-ide-0.8.0.beta19/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ruby-debug-ide-0.8.0.beta19/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ruby-debug-ide-0.8.0.beta19/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ruby-debug-ide-0.8.0.beta19/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ruby-debug-ide-0.8.0.beta19/ext" />
+      </excluded>
+    </library>
     <library name="ruby-gmail (v0.3.1, RVM: ruby-2.6.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -4195,17 +4007,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/sendgrid-ruby-5.3.0/examples" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/sendgrid-ruby-5.3.0/gemfiles" />
       </excluded>
-    </library>
-    <library name="shared-mime-info (v0.2.5, RVM: ruby-2.6.5) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/shared-mime-info-0.2.5/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/shared-mime-info-0.2.5/lib" />
-      </SOURCES>
     </library>
     <library name="shell (v0.7, RVM: ruby-2.6.4 [i18n-migrations]) [gem]" type="rubylib">
       <properties>
@@ -4750,22 +4551,6 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.5/lib/ruby/2.6.0/webrick/httpauth" />
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.5/lib/ruby/2.6.0/webrick/httpservlet" />
-      </excluded>
-    </library>
-    <library name="webrobots (v0.1.2, RVM: ruby-2.6.5) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/webrobots-0.1.2/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/webrobots-0.1.2/test" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/webrobots-0.1.2/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/webrobots-0.1.2/test" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/webrobots-0.1.2/test" />
       </excluded>
     </library>
     <library name="websocket-driver (v0.7.0, RVM: ruby-2.6.5) [gem]" type="rubylib">
