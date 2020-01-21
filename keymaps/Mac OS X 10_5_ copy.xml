@@ -122,7 +122,7 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
-  <action id="Tool_External Tools_Rubocop bash">
+  <action id="Tool_External Tools_Rubocop">
     <keyboard-shortcut first-keystroke="meta alt semicolon" />
   </action>
   <action id="Vcs.RollbackChangedLines">
