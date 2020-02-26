@@ -2506,6 +2506,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/exponent-server-sdk-0.0.6/test" />
       </excluded>
     </library>
+    <library name="exponent-server-sdk (v0.0.7, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/exponent-server-sdk-0.0.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/exponent-server-sdk-0.0.7/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/exponent-server-sdk-0.0.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/exponent-server-sdk-0.0.7/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/exponent-server-sdk-0.0.7/test" />
+      </excluded>
+    </library>
     <library name="extlib (v0.9.16, RVM: ruby-2.6.5 [crowd_translate]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -2677,6 +2693,27 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/ffi-1.12.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/ffi-1.12.2/samples" />
+      </excluded>
+    </library>
+    <library name="ffi (v1.12.2, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/ffi/1.12.2" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ffi-1.12.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ffi-1.12.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ffi-1.12.2/samples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/ffi/1.12.2" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ffi-1.12.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ffi-1.12.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ffi-1.12.2/samples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ffi-1.12.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ffi-1.12.2/samples" />
       </excluded>
     </library>
     <library name="fiddle (v1.0.0, RVM: ruby-2.6.4 [i18n-migrations]) [gem]" type="rubylib">
