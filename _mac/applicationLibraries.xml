@@ -1993,6 +1993,23 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/concurrent-ruby-1.1.5/ext" />
       </excluded>
     </library>
+    <library name="concurrent-ruby (v1.1.6, RVM: ruby-2.6.5 [crowd_translate]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/concurrent-ruby-1.1.6/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/concurrent-ruby-1.1.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/concurrent-ruby-1.1.6/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/concurrent-ruby-1.1.6/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/concurrent-ruby-1.1.6/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/concurrent-ruby-1.1.6/lib" />
+      </excluded>
+    </library>
     <library name="concurrent-ruby (v1.1.6, RVM: ruby-2.6.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -11367,6 +11384,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/zeitwerk-2.2.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="zeitwerk (v2.3.0, RVM: ruby-2.6.5 [crowd_translate]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/zeitwerk-2.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/zeitwerk-2.3.0/lib" />
       </SOURCES>
     </library>
   </component>
