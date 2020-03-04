@@ -6911,6 +6911,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/os-1.0.1/autotest" />
       </excluded>
     </library>
+    <library name="paper_trail (v10.3.1, RVM: ruby-2.6.5 [crowd_translate]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/paper_trail-10.3.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/paper_trail-10.3.1/lib" />
+      </SOURCES>
+    </library>
     <library name="paper_trail (v9.2.0, RVM: ruby-2.6.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -8680,6 +8691,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/request_store-1.4.1/test" />
+      </excluded>
+    </library>
+    <library name="request_store (v1.5.0, RVM: ruby-2.6.5 [crowd_translate]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/request_store-1.5.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/request_store-1.5.0/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/request_store-1.5.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/request_store-1.5.0/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/request_store-1.5.0/test" />
       </excluded>
     </library>
     <library name="responders (v2.4.1, RVM: ruby-2.6.5) [gem]" type="rubylib">
