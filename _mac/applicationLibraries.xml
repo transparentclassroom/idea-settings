@@ -1879,6 +1879,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/byebug-11.1.1/ext" />
       </excluded>
     </library>
+    <library name="camertron-eprun (v1.1.1, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/camertron-eprun-1.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/camertron-eprun-1.1.1/lib" />
+      </SOURCES>
+    </library>
     <library name="charlock_holmes (v0.7.6, RVM: ruby-2.6.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1949,6 +1960,22 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/choice-0.2.0/test" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/choice-0.2.0/examples" />
+      </excluded>
+    </library>
+    <library name="cldr-plurals-runtime-rb (v1.0.1, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/cldr-plurals-runtime-rb-1.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/cldr-plurals-runtime-rb-1.0.1/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/cldr-plurals-runtime-rb-1.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/cldr-plurals-runtime-rb-1.0.1/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/cldr-plurals-runtime-rb-1.0.1/spec" />
       </excluded>
     </library>
     <library name="climate_control (v0.2.0, RVM: ruby-2.6.5) [gem]" type="rubylib">
@@ -11326,6 +11353,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/twitter-stream-0.1.16/spec" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/twitter-stream-0.1.16/examples" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/twitter-stream-0.1.16/fixtures" />
+      </excluded>
+    </library>
+    <library name="twitter_cldr (v5.4.0, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/twitter_cldr-5.4.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/twitter_cldr-5.4.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/twitter_cldr-5.4.0/resources" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/twitter_cldr-5.4.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/twitter_cldr-5.4.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/twitter_cldr-5.4.0/resources" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/twitter_cldr-5.4.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/twitter_cldr-5.4.0/resources" />
       </excluded>
     </library>
     <library name="typhoeus (v0.8.0, RVM: ruby-2.6.5 [crowd_translate]) [gem]" type="rubylib">
