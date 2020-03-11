@@ -8821,6 +8821,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/exponent-server-sdk-0.0.7/test" />
       </excluded>
     </library>
+    <library name="exponent-server-sdk (v0.0.7@516be5, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/expo-server-sdk-ruby-516be5a7247d/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/expo-server-sdk-ruby-516be5a7247d/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/expo-server-sdk-ruby-516be5a7247d/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/expo-server-sdk-ruby-516be5a7247d/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/expo-server-sdk-ruby-516be5a7247d/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/expo-server-sdk-ruby-516be5a7247d/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/expo-server-sdk-ruby-516be5a7247d/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/expo-server-sdk-ruby-516be5a7247d/test" />
+      </excluded>
+    </library>
     <library name="extlib (v0.9.16, RVM: ruby-2.6.5 [crowd_translate]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
