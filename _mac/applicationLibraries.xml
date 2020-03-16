@@ -44,6 +44,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/actionview-5.2.3/lib" />
       </SOURCES>
     </library>
+    <library name="active_model_serializers (v0.10.10, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/active_model_serializers-0.10.10/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/active_model_serializers-0.10.10/lib" />
+      </SOURCES>
+    </library>
     <library name="activejob (v5.2.3, RVM: ruby-2.6.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1013,6 +1024,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/camertron-eprun-1.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="case_transform (v0.2, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/case_transform-0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/case_transform-0.2/lib" />
       </SOURCES>
     </library>
     <library name="charlock_holmes (v0.7.6, RVM: ruby-2.6.5) [gem]" type="rubylib">
@@ -3762,6 +3784,17 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.5/lib/ruby/2.6.0/json/add" />
       </excluded>
+    </library>
+    <library name="jsonapi-renderer (v0.2.2, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/jsonapi-renderer-0.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/jsonapi-renderer-0.2.2/lib" />
+      </SOURCES>
     </library>
     <library name="jwt (v1.5.6, RVM: ruby-2.6.5) [gem]" type="rubylib">
       <properties>
