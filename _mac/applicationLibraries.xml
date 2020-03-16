@@ -6891,6 +6891,25 @@
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.5/lib/ruby/2.6.0/rexml/validation" />
       </excluded>
     </library>
+    <library name="roar (v1.1.0, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/roar-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/roar-1.1.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/roar-1.1.0/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/roar-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/roar-1.1.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/roar-1.1.0/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/roar-1.1.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/roar-1.1.0/examples" />
+      </excluded>
+    </library>
     <library name="rollbar (v2.19.4, RVM: ruby-2.6.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
