@@ -7,6 +7,7 @@
   </option>
   <option name="HTML_SPACE_INSIDE_EMPTY_TAG" value="true" />
   <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="html,body" />
+  <option name="SOFT_MARGINS" value="120" />
   <HTMLCodeStyleSettings>
     <option name="HTML_ATTRIBUTE_WRAP" value="4" />
     <option name="HTML_SPACE_INSIDE_EMPTY_TAG" value="true" />
@@ -47,6 +48,7 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="JSON">
+    <option name="WRAP_LONG_LINES" value="true" />
     <indentOptions>
       <option name="INDENT_SIZE" value="4" />
     </indentOptions>
