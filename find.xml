@@ -23,5 +23,6 @@
     <mask>*.rb</mask>
     <mask>*spec.jsx</mask>
     <mask>*.js*</mask>
+    <mask>*.scss*</mask>
   </component>
 </application>
