@@ -24,5 +24,6 @@
     <mask>*spec.jsx</mask>
     <mask>*.js*</mask>
     <mask>*.scss*</mask>
+    <mask>*.html*</mask>
   </component>
 </application>
