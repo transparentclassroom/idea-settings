@@ -9,4 +9,10 @@
     <variable name="E" expression="" defaultValue="" alwaysStopAt="true" />
     <context />
   </template>
+  <template name="h=" value="$VAL$: $VAL$" description="hash prop and value are same" toReformat="false" toShortenFQNames="true">
+    <variable name="VAL" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="RUBY" value="true" />
+    </context>
+  </template>
 </templateSet>
