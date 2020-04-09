@@ -25,5 +25,6 @@
     <mask>*.html*</mask>
     <mask>*.rb</mask>
     <mask>*js*</mask>
+    <mask>*js</mask>
   </component>
 </application>
