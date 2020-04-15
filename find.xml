@@ -25,5 +25,7 @@
     <mask>*.html*</mask>
     <mask>*.rb</mask>
     <mask>*js*</mask>
+    <mask>*js</mask>
+    <mask>*_spec.rb</mask>
   </component>
 </application>
