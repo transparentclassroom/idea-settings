@@ -23,9 +23,10 @@
     <mask>*.js*</mask>
     <mask>*.scss*</mask>
     <mask>*.html*</mask>
-    <mask>*.rb</mask>
     <mask>*js*</mask>
     <mask>*js</mask>
     <mask>*_spec.rb</mask>
+    <mask>*.rb</mask>
+    <mask>*widget.rb</mask>
   </component>
 </application>
