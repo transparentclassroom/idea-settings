@@ -8,7 +8,6 @@
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
-    <mask>*.js</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
@@ -23,10 +22,10 @@
     <mask>*.js*</mask>
     <mask>*.scss*</mask>
     <mask>*.html*</mask>
+    <mask>*.rb</mask>
     <mask>*js*</mask>
     <mask>*js</mask>
     <mask>*_spec.rb</mask>
-    <mask>*.rb</mask>
-    <mask>*widget.rb</mask>
+    <mask>*.js</mask>
   </component>
 </application>
