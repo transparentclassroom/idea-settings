@@ -2743,6 +2743,34 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/execjs-2.7.0/lib" />
       </SOURCES>
     </library>
+    <library name="executable-hooks (v1.6.0, RVM: ruby-2.4.1 [global]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/gems/2.4.0/gems/executable-hooks-1.6.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/gems/2.4.0/gems/executable-hooks-1.6.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/gems/2.4.0/gems/executable-hooks-1.6.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/gems/2.4.0/gems/executable-hooks-1.6.0/test-tf" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/gems/2.4.0/gems/executable-hooks-1.6.0/test-tf-bundle" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/gems/2.4.0/gems/executable-hooks-1.6.0/test-tf-truffleruby" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/gems/2.4.0/gems/executable-hooks-1.6.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/gems/2.4.0/gems/executable-hooks-1.6.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/gems/2.4.0/gems/executable-hooks-1.6.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/gems/2.4.0/gems/executable-hooks-1.6.0/test-tf" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/gems/2.4.0/gems/executable-hooks-1.6.0/test-tf-bundle" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/gems/2.4.0/gems/executable-hooks-1.6.0/test-tf-truffleruby" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/gems/2.4.0/gems/executable-hooks-1.6.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/gems/2.4.0/gems/executable-hooks-1.6.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/gems/2.4.0/gems/executable-hooks-1.6.0/test-tf" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/gems/2.4.0/gems/executable-hooks-1.6.0/test-tf-bundle" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/gems/2.4.0/gems/executable-hooks-1.6.0/test-tf-truffleruby" />
+      </excluded>
+    </library>
     <library name="executable-hooks (v1.6.0, RVM: ruby-2.6.3 [whowashere]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
