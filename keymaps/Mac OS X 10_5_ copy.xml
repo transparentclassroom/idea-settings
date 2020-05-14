@@ -11,10 +11,6 @@
   <action id="Console.Execute.Multiline" />
   <action id="Console.TableResult.AddColumn" />
   <action id="Console.TableResult.Submit" />
-  <action id="DatabaseView.ExecuteRoutine">
-    <keyboard-shortcut first-keystroke="shift ctrl d" />
-  </action>
-  <action id="DebugClass" />
   <action id="Diagram.DeselectAll" />
   <action id="EditorCloneCaretAbove">
     <keyboard-shortcut first-keystroke="shift ctrl up" />
