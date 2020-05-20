@@ -1178,12 +1178,14 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs24/commonmarker/0.17.13" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/commonmarker-0.17.13/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/commonmarker-0.17.13/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/commonmarker-0.17.13/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/commonmarker-0.17.13/test" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs24/commonmarker/0.17.13" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/commonmarker-0.17.13/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/commonmarker-0.17.13/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/commonmarker-0.17.13/lib" />
@@ -3296,6 +3298,7 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs24/http_parser.rb/0.6.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/http_parser.rb-0.6.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/http_parser.rb-0.6.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/http_parser.rb-0.6.0/spec" />
@@ -3303,6 +3306,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/http_parser.rb-0.6.0/tasks" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs24/http_parser.rb/0.6.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/http_parser.rb-0.6.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/http_parser.rb-0.6.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/http_parser.rb-0.6.0/spec" />
