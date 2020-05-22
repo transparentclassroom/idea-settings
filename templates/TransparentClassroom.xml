@@ -428,4 +428,9 @@
       <option name="RUBY" value="true" />
     </context>
   </template>
+  <template name="rc" value="&lt;% # $END$ %&gt;" description="ERB: &lt;% # %&gt;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="RHTML" value="true" />
+    </context>
+  </template>
 </templateSet>
