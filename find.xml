@@ -19,7 +19,6 @@
     <mask>*md</mask>
     <mask>*.html.erb</mask>
     <mask>*.erb</mask>
-    <mask>*spec.rb</mask>
     <mask>*spec.jsx</mask>
     <mask>*.js*</mask>
     <mask>*.scss*</mask>
@@ -29,6 +28,6 @@
     <mask>*js</mask>
     <mask>*_spec.rb</mask>
     <mask>*.js</mask>
-    <mask>*html*</mask>
+    <mask>*spec.rb</mask>
   </component>
 </application>
