@@ -64,6 +64,9 @@
     <keyboard-shortcut first-keystroke="meta close_bracket" />
     <mouse-shortcut keystroke="button5" />
   </action>
+  <action id="Github.Create.Pull.Request">
+    <keyboard-shortcut first-keystroke="alt p" />
+  </action>
   <action id="GotoNextError">
     <keyboard-shortcut first-keystroke="f2" />
     <keyboard-shortcut first-keystroke="shift alt e" />
