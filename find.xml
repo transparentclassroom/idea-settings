@@ -29,5 +29,6 @@
     <mask>*js</mask>
     <mask>*</mask>
     <mask>*.rb</mask>
+    <mask>*.jsx</mask>
   </component>
 </application>
