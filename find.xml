@@ -15,21 +15,21 @@
     <mask>*spec*</mask>
     <mask>*md</mask>
     <mask>*.html.erb</mask>
-    <mask>*.erb</mask>
     <mask>*spec.jsx</mask>
     <mask>*.js*</mask>
     <mask>*.scss*</mask>
     <mask>*.html*</mask>
     <mask>*js*</mask>
     <mask>*_spec.rb</mask>
-    <mask>*.js</mask>
     <mask>*spec.rb</mask>
     <mask>*scss</mask>
     <mask>*js</mask>
     <mask>*</mask>
     <mask>*.rb</mask>
-    <mask>*.jsx</mask>
     <mask>*_spec.js*</mask>
     <mask>*.scss</mask>
+    <mask>*.jsx</mask>
+    <mask>*.erb</mask>
+    <mask>*.js</mask>
   </component>
 </application>
