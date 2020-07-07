@@ -25,11 +25,11 @@
     <mask>*scss</mask>
     <mask>*js</mask>
     <mask>*</mask>
-    <mask>*.rb</mask>
     <mask>*_spec.js*</mask>
     <mask>*.scss</mask>
     <mask>*.jsx</mask>
-    <mask>*.erb</mask>
     <mask>*.js</mask>
+    <mask>*.rb</mask>
+    <mask>*.erb</mask>
   </component>
 </application>
