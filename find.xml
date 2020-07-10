@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*spec.rb" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -21,7 +22,6 @@
     <mask>*.html*</mask>
     <mask>*js*</mask>
     <mask>*_spec.rb</mask>
-    <mask>*spec.rb</mask>
     <mask>*scss</mask>
     <mask>*js</mask>
     <mask>*</mask>
@@ -31,5 +31,6 @@
     <mask>*.js</mask>
     <mask>*.rb</mask>
     <mask>*.erb</mask>
+    <mask>*spec.rb</mask>
   </component>
 </application>
