@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.jsx" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -28,11 +29,11 @@
     <mask>*</mask>
     <mask>*_spec.js*</mask>
     <mask>*.scss</mask>
-    <mask>*.jsx</mask>
     <mask>*.js</mask>
     <mask>*.rb</mask>
     <mask>*.erb</mask>
     <mask>*spec.rb</mask>
     <mask>*rb</mask>
+    <mask>*.jsx</mask>
   </component>
 </application>
