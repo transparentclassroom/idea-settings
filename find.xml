@@ -29,11 +29,11 @@
     <mask>*</mask>
     <mask>*_spec.js*</mask>
     <mask>*.scss</mask>
-    <mask>*.js</mask>
     <mask>*.rb</mask>
     <mask>*.erb</mask>
     <mask>*spec.rb</mask>
     <mask>*rb</mask>
+    <mask>*.js</mask>
     <mask>*.jsx</mask>
   </component>
 </application>
