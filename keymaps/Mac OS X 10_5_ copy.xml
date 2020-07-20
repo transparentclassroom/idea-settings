@@ -131,6 +131,12 @@
     <keyboard-shortcut first-keystroke="shift meta alt z" />
   </action>
   <action id="ViewSource" />
+  <action id="latex.align_center" />
+  <action id="latex.align_left" />
+  <action id="latex.align_right" />
+  <action id="latex.bold" />
+  <action id="latex.italic" />
+  <action id="latex.underline" />
   <action id="tasks.switch" />
   <action id="tasks.switch.toolbar" />
 </keymap>
