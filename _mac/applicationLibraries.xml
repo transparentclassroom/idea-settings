@@ -3715,6 +3715,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/faraday-1.0.0/examples" />
       </excluded>
     </library>
+    <library name="faraday (v1.0.1, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/faraday-1.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/faraday-1.0.1/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/faraday-1.0.1/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/faraday-1.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/faraday-1.0.1/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/faraday-1.0.1/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/faraday-1.0.1/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/faraday-1.0.1/examples" />
+      </excluded>
+    </library>
     <library name="faraday_middleware (v0.12.2, RVM: ruby-2.6.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -3735,6 +3754,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/faraday_middleware-0.13.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="faraday_middleware (v1.0.0, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/faraday_middleware-1.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/faraday_middleware-1.0.0/lib" />
       </SOURCES>
     </library>
     <library name="ffi (v1.10.0, RVM: ruby-2.6.5) [gem]" type="rubylib">
@@ -4160,6 +4190,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/gh-0.15.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="gh (v0.18.0, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/gh-0.18.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/gh-0.18.0/lib" />
       </SOURCES>
     </library>
     <library name="globalid (v0.4.2, RVM: ruby-2.6.5 [crowd_translate]) [gem]" type="rubylib">
@@ -5581,6 +5622,37 @@
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.5/lib/ruby/2.6.0/json/add" />
       </excluded>
     </library>
+    <library name="json (v2.3.1, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/json-2.3.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/json-2.3.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/json-2.3.1/java" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/json-2.3.1/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/json-2.3.1/tools" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/json-2.3.1/diagrams" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/json-2.3.1/references" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/json-2.3.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/json-2.3.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/json-2.3.1/java" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/json-2.3.1/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/json-2.3.1/tools" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/json-2.3.1/diagrams" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/json-2.3.1/references" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/json-2.3.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/json-2.3.1/java" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/json-2.3.1/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/json-2.3.1/tools" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/json-2.3.1/diagrams" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/json-2.3.1/references" />
+      </excluded>
+    </library>
     <library name="jwt (v1.5.6, RVM: ruby-2.6.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -5756,6 +5828,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/launchy-2.4.3/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/launchy-2.4.3/spec" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/launchy-2.4.3/tasks" />
+      </excluded>
+    </library>
+    <library name="launchy (v2.4.3, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/launchy-2.4.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/launchy-2.4.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/launchy-2.4.3/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/launchy-2.4.3/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/launchy-2.4.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/launchy-2.4.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/launchy-2.4.3/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/launchy-2.4.3/tasks" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/launchy-2.4.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/launchy-2.4.3/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/launchy-2.4.3/tasks" />
       </excluded>
     </library>
     <library name="liquid (v4.0.0, RVM: ruby-2.6.5) [gem]" type="rubylib">
@@ -7112,6 +7206,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/net-http-persistent-2.9.4/test" />
       </excluded>
     </library>
+    <library name="net-http-persistent (v2.9.4, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/net-http-persistent-2.9.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/net-http-persistent-2.9.4/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/net-http-persistent-2.9.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/net-http-persistent-2.9.4/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/net-http-persistent-2.9.4/test" />
+      </excluded>
+    </library>
     <library name="net-http-persistent (v3.0.1, RVM: ruby-2.6.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -7145,6 +7255,25 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/net-http-pipeline-1.0.1/test" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/net-http-pipeline-1.0.1/sample" />
+      </excluded>
+    </library>
+    <library name="net-http-pipeline (v1.0.1, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/net-http-pipeline-1.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/net-http-pipeline-1.0.1/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/net-http-pipeline-1.0.1/sample" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/net-http-pipeline-1.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/net-http-pipeline-1.0.1/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/net-http-pipeline-1.0.1/sample" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/net-http-pipeline-1.0.1/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/net-http-pipeline-1.0.1/sample" />
       </excluded>
     </library>
     <library name="net-telnet (v0.1.1, RVM: ruby-2.4.1 [global]) [gem]" type="rubylib">
@@ -8796,6 +8925,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/pusher-client-0.6.2/spec" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/pusher-client-0.6.2/certs" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/pusher-client-0.6.2/examples" />
+      </excluded>
+    </library>
+    <library name="pusher-client (v0.6.2, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/pusher-client-0.6.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/pusher-client-0.6.2/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/pusher-client-0.6.2/certs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/pusher-client-0.6.2/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/pusher-client-0.6.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/pusher-client-0.6.2/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/pusher-client-0.6.2/certs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/pusher-client-0.6.2/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/pusher-client-0.6.2/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/pusher-client-0.6.2/certs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/pusher-client-0.6.2/examples" />
       </excluded>
     </library>
     <library name="raabro (v1.1.6, RVM: ruby-2.6.5) [gem]" type="rubylib">
@@ -12607,6 +12758,31 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/travis-1.8.10/examples" />
       </excluded>
     </library>
+    <library name="travis (v1.9.1, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/travis-1.9.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/travis-1.9.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/travis-1.9.1/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/travis-1.9.1/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/travis-1.9.1/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/travis-1.9.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/travis-1.9.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/travis-1.9.1/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/travis-1.9.1/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/travis-1.9.1/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/travis-1.9.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/travis-1.9.1/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/travis-1.9.1/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/travis-1.9.1/examples" />
+      </excluded>
+    </library>
     <library name="turbolinks (v5.2.0, RVM: ruby-2.6.5 [crowd_translate]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -12698,6 +12874,25 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/typhoeus-0.8.0/perf" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/typhoeus-0.8.0/spec" />
+      </excluded>
+    </library>
+    <library name="typhoeus (v0.8.0, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/typhoeus-0.8.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/typhoeus-0.8.0/perf" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/typhoeus-0.8.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/typhoeus-0.8.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/typhoeus-0.8.0/perf" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/typhoeus-0.8.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/typhoeus-0.8.0/perf" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/typhoeus-0.8.0/spec" />
       </excluded>
     </library>
     <library name="typhoeus (v1.3.1, RVM: ruby-2.6.5) [gem]" type="rubylib">
@@ -13192,6 +13387,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/websocket-1.2.8/spec" />
+      </excluded>
+    </library>
+    <library name="websocket (v1.2.8, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/websocket-1.2.8/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/websocket-1.2.8/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/websocket-1.2.8/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/websocket-1.2.8/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/websocket-1.2.8/spec" />
       </excluded>
     </library>
     <library name="websocket-driver (v0.7.0, RVM: ruby-2.6.5) [gem]" type="rubylib">
