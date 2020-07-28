@@ -29,7 +29,7 @@
     <mask>*.jsx</mask>
     <mask>*.js</mask>
     <mask>*.rb</mask>
-    <mask>*.erb</mask>
     <mask>*.scss</mask>
+    <mask>*.erb</mask>
   </component>
 </application>
