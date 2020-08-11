@@ -849,11 +849,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/bindex/0.8.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/bindex-0.8.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/bindex-0.8.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/bindex-0.8.1/test" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/bindex/0.8.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/bindex-0.8.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/bindex-0.8.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/bindex-0.8.1/test" />
@@ -914,12 +916,14 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/bootsnap/1.4.5" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/bootsnap-1.4.5/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/bootsnap-1.4.5/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/bootsnap-1.4.5/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/bootsnap-1.4.5/.github" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/bootsnap/1.4.5" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/bootsnap-1.4.5/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/bootsnap-1.4.5/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/bootsnap-1.4.5/lib" />
@@ -1314,11 +1318,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/byebug/11.1.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/byebug-11.1.1/exe" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/byebug-11.1.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/byebug-11.1.1/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/byebug/11.1.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/byebug-11.1.1/exe" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/byebug-11.1.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/byebug-11.1.1/lib" />
@@ -1773,6 +1779,17 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/declarative-0.0.10/test" />
       </excluded>
+    </library>
+    <library name="declarative (v0.0.20, RVM: ruby-2.6.5 [crowd_translate]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/declarative-0.0.20/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/declarative-0.0.20/lib" />
+      </SOURCES>
     </library>
     <library name="declarative (v0.0.20, RVM: ruby-2.6.5) [gem]" type="rubylib">
       <properties>
@@ -2721,11 +2738,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/ffi/1.12.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/ffi-1.12.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/ffi-1.12.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/ffi-1.12.2/samples" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/ffi/1.12.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/ffi-1.12.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/ffi-1.12.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/ffi-1.12.2/samples" />
@@ -3090,6 +3109,39 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/google-api-client-0.42.1/samples" />
       </excluded>
     </library>
+    <library name="google-api-client (v0.43.0, RVM: ruby-2.6.5 [crowd_translate]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/google-api-client-0.43.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/google-api-client-0.43.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/google-api-client-0.43.0/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/google-api-client-0.43.0/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/google-api-client-0.43.0/.kokoro" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/google-api-client-0.43.0/rakelib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/google-api-client-0.43.0/samples" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/google-api-client-0.43.0/generated" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/google-api-client-0.43.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/google-api-client-0.43.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/google-api-client-0.43.0/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/google-api-client-0.43.0/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/google-api-client-0.43.0/.kokoro" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/google-api-client-0.43.0/rakelib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/google-api-client-0.43.0/samples" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/google-api-client-0.43.0/generated" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/google-api-client-0.43.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/google-api-client-0.43.0/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/google-api-client-0.43.0/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/google-api-client-0.43.0/.kokoro" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/google-api-client-0.43.0/rakelib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/google-api-client-0.43.0/samples" />
+      </excluded>
+    </library>
     <library name="google-api-client (v0.7.1, RVM: ruby-2.6.5 [crowd_translate]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -3190,6 +3242,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/google_drive-3.0.4/lib" />
       </SOURCES>
     </library>
+    <library name="google_drive (v3.0.5, RVM: ruby-2.6.5 [crowd_translate]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/google_drive-3.0.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/google_drive-3.0.5/lib" />
+      </SOURCES>
+    </library>
     <library name="google_drive (v3.0.5, RVM: ruby-2.6.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -3249,6 +3312,37 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/googleauth-0.11.0/.github" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/googleauth-0.11.0/.kokoro" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/googleauth-0.11.0/rakelib" />
+      </excluded>
+    </library>
+    <library name="googleauth (v0.13.1, RVM: ruby-2.6.5 [crowd_translate]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/googleauth-0.13.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/googleauth-0.13.1/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/googleauth-0.13.1/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/googleauth-0.13.1/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/googleauth-0.13.1/.kokoro" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/googleauth-0.13.1/rakelib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/googleauth-0.13.1/integration" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/googleauth-0.13.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/googleauth-0.13.1/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/googleauth-0.13.1/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/googleauth-0.13.1/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/googleauth-0.13.1/.kokoro" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/googleauth-0.13.1/rakelib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/googleauth-0.13.1/integration" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/googleauth-0.13.1/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/googleauth-0.13.1/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/googleauth-0.13.1/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/googleauth-0.13.1/.kokoro" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/googleauth-0.13.1/rakelib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/googleauth-0.13.1/integration" />
       </excluded>
     </library>
     <library name="googleauth (v0.5.1, RVM: ruby-2.6.5) [gem]" type="rubylib">
@@ -3731,6 +3825,25 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/i18n-migrations-2.0.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/i18n-migrations-2.0.0/example" />
+      </excluded>
+    </library>
+    <library name="i18n-migrations (v2.0.6, RVM: ruby-2.6.5 [crowd_translate]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/i18n-migrations-2.0.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/i18n-migrations-2.0.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/i18n-migrations-2.0.6/example" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/i18n-migrations-2.0.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/i18n-migrations-2.0.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/i18n-migrations-2.0.6/example" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/i18n-migrations-2.0.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/i18n-migrations-2.0.6/example" />
       </excluded>
     </library>
     <library name="i18n-migrations (v2.0.6, RVM: ruby-2.6.5) [gem]" type="rubylib">
@@ -5090,6 +5203,7 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/msgpack/1.3.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/msgpack-1.3.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/msgpack-1.3.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/msgpack-1.3.3/spec" />
@@ -5097,6 +5211,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/msgpack-1.3.3/doclib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/msgpack/1.3.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/msgpack-1.3.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/msgpack-1.3.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/msgpack-1.3.3/spec" />
@@ -5480,6 +5595,7 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/nio4r/2.5.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/nio4r-2.5.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/nio4r-2.5.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/nio4r-2.5.2/spec" />
@@ -5487,6 +5603,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/nio4r-2.5.2/examples" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/nio4r/2.5.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/nio4r-2.5.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/nio4r-2.5.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/nio4r-2.5.2/spec" />
@@ -5551,12 +5668,14 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/nokogiri/1.10.9" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/nokogiri-1.10.9/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/nokogiri-1.10.9/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/nokogiri-1.10.9/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/nokogiri-1.10.9/patches" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/nokogiri/1.10.9" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/nokogiri-1.10.9/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/nokogiri-1.10.9/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/nokogiri-1.10.9/lib" />
@@ -5966,6 +6085,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/os-1.1.0/autotest" />
       </excluded>
     </library>
+    <library name="os (v1.1.1, RVM: ruby-2.6.5 [crowd_translate]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/os-1.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/os-1.1.1/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/os-1.1.1/autotest" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/os-1.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/os-1.1.1/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/os-1.1.1/autotest" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/os-1.1.1/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/os-1.1.1/autotest" />
+      </excluded>
+    </library>
     <library name="paper_trail (v10.3.1, RVM: ruby-2.6.5 [crowd_translate]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -6123,11 +6261,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/pg/1.2.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/pg-1.2.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/pg-1.2.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/pg-1.2.2/spec" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/pg/1.2.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/pg-1.2.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/pg-1.2.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/pg-1.2.2/spec" />
@@ -6445,6 +6585,7 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/puma/3.12.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/puma-3.12.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/puma-3.12.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/puma-3.12.2/lib" />
@@ -6452,6 +6593,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/puma-3.12.2/tools" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/puma/3.12.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/puma-3.12.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/puma-3.12.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/puma-3.12.2/lib" />
@@ -7098,11 +7240,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/rb-fsevent/0.10.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/rb-fsevent-0.10.3/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/rb-fsevent-0.10.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/rb-fsevent-0.10.3/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/rb-fsevent/0.10.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/rb-fsevent-0.10.3/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/rb-fsevent-0.10.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/rb-fsevent-0.10.3/lib" />
@@ -7274,12 +7418,14 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/redcarpet/3.5.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/redcarpet-3.5.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/redcarpet-3.5.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/redcarpet-3.5.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/redcarpet-3.5.0/test" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/redcarpet/3.5.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/redcarpet-3.5.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/redcarpet-3.5.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/redcarpet-3.5.0/lib" />
@@ -8285,11 +8431,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/sassc/2.2.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/sassc-2.2.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/sassc-2.2.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/sassc-2.2.1/test" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/sassc/2.2.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/sassc-2.2.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/sassc-2.2.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/sassc-2.2.1/test" />
@@ -8516,6 +8664,25 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/signet-0.13.0/spec" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/signet-0.13.0/website" />
+      </excluded>
+    </library>
+    <library name="signet (v0.14.0, RVM: ruby-2.6.5 [crowd_translate]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/signet-0.14.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/signet-0.14.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/signet-0.14.0/website" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/signet-0.14.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/signet-0.14.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/signet-0.14.0/website" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/signet-0.14.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/signet-0.14.0/website" />
       </excluded>
     </library>
     <library name="signet (v0.5.1, RVM: ruby-2.6.5 [crowd_translate]) [gem]" type="rubylib">
@@ -9619,10 +9786,12 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/websocket-driver/0.7.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/websocket-driver-0.7.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/websocket-driver-0.7.1/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/websocket-driver/0.7.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/websocket-driver-0.7.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5@crowd_translate/gems/websocket-driver-0.7.1/lib" />
       </SOURCES>
