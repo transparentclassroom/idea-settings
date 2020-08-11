@@ -1,11 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
@@ -24,6 +20,7 @@
     <mask>*.scss*</mask>
     <mask>*.html*</mask>
     <mask>*js*</mask>
+    <mask>*_spec.rb</mask>
     <mask>*spec.rb</mask>
     <mask>*scss</mask>
     <mask>*js</mask>
@@ -34,6 +31,5 @@
     <mask>*.rb</mask>
     <mask>*.scss</mask>
     <mask>*.erb</mask>
-    <mask>*_spec.rb</mask>
   </component>
 </application>
