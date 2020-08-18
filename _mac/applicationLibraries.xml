@@ -877,6 +877,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/crass-1.0.4/test" />
       </excluded>
     </library>
+    <library name="crud-muffins-rails (v0.0.1, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/crud-muffins-rails-0.0.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/crud-muffins-rails-0.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/crud-muffins-rails-0.0.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/crud-muffins-rails-0.0.1/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/crud-muffins-rails-0.0.1/bin" />
+      </excluded>
+    </library>
     <library name="css_parser (v1.6.0, RVM: ruby-2.6.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
