@@ -8,11 +8,13 @@
       <mapping pattern="pull_db" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="dig_into_lessons" type="PLAIN_TEXT" />
+      <mapping pattern=".env.example" type="PLAIN_TEXT" />
+      <mapping pattern="boom" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="tell_slack" type="PLAIN_TEXT" />
-      <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping pattern="debug_batch_script" type="Ruby" />
+      <mapping pattern="parse_log" type="Ruby" />
       <removed_mapping pattern="homepage_sidebar.jsx" approved="true" type="yarn.lock" />
     </extensionMap>
   </component>
