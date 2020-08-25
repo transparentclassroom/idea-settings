@@ -226,6 +226,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/addressable-2.7.0/tasks" />
       </excluded>
     </library>
+    <library name="analyst (v1.2.4, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/analyst-1.2.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/analyst-1.2.4/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/analyst-1.2.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/analyst-1.2.4/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/analyst-1.2.4/spec" />
+      </excluded>
+    </library>
     <library name="ancestry (v3.0.6@c91c19, RVM: ruby-2.6.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1927,6 +1943,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/fugit-1.3.3/lib" />
       </SOURCES>
     </library>
+    <library name="fukuzatsu (v2.3.2, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/fukuzatsu-2.3.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/fukuzatsu-2.3.2/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/fukuzatsu-2.3.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/fukuzatsu-2.3.2/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/fukuzatsu-2.3.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/fukuzatsu-2.3.2/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/fukuzatsu-2.3.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/fukuzatsu-2.3.2/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/fukuzatsu-2.3.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/fukuzatsu-2.3.2/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/fukuzatsu-2.3.2/spec" />
+      </excluded>
+    </library>
     <library name="gem-wrappers (v1.4.0, RVM: ruby-2.4.1 [global]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -2238,6 +2276,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/googleauth-0.8.1/spec" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/googleauth-0.8.1/.github" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/googleauth-0.8.1/.kokoro" />
+      </excluded>
+    </library>
+    <library name="haml (v5.1.2, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/haml-5.1.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/haml-5.1.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/haml-5.1.2/yard" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/haml-5.1.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/haml-5.1.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/haml-5.1.2/yard" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/haml-5.1.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/haml-5.1.2/yard" />
       </excluded>
     </library>
     <library name="hashie (v3.5.5, RVM: ruby-2.6.5) [gem]" type="rubylib">
@@ -2886,6 +2943,37 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/kramdown-1.13.2/data" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/kramdown-1.13.2/test" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/kramdown-1.13.2/benchmark" />
+      </excluded>
+    </library>
+    <library name="kwalify (v0.7.2, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/kwalify-0.7.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/kwalify-0.7.2/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/kwalify-0.7.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/kwalify-0.7.2/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/kwalify-0.7.2/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/kwalify-0.7.2/doc-api" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/kwalify-0.7.2/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/kwalify-0.7.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/kwalify-0.7.2/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/kwalify-0.7.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/kwalify-0.7.2/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/kwalify-0.7.2/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/kwalify-0.7.2/doc-api" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/kwalify-0.7.2/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/kwalify-0.7.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/kwalify-0.7.2/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/kwalify-0.7.2/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/kwalify-0.7.2/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/kwalify-0.7.2/doc-api" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/kwalify-0.7.2/examples" />
       </excluded>
     </library>
     <library name="launchy (v2.4.3, RVM: ruby-2.6.5) [gem]" type="rubylib">
@@ -5229,6 +5317,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/rollbar-2.23.2/gemfiles" />
       </excluded>
     </library>
+    <library name="rouge (v3.22.0, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/rouge-3.22.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/rouge-3.22.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/rouge-3.22.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/rouge-3.22.0/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/rouge-3.22.0/bin" />
+      </excluded>
+    </library>
     <library name="rspec (v3.8.0, RVM: ruby-2.6.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -5927,6 +6031,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/stripe-3.3.1/.github" />
       </excluded>
     </library>
+    <library name="temple (v0.8.2, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/temple-0.8.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/temple-0.8.2/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/temple-0.8.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/temple-0.8.2/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/temple-0.8.2/test" />
+      </excluded>
+    </library>
     <library name="terminal-table (v1.8.0, RVM: ruby-2.6.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -6186,6 +6306,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/travis-1.9.1/spec" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/travis-1.9.1/assets" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/travis-1.9.1/examples" />
+      </excluded>
+    </library>
+    <library name="turbulence (v1.2.4, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/turbulence-1.2.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/turbulence-1.2.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/turbulence-1.2.4/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/turbulence-1.2.4/template" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/turbulence-1.2.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/turbulence-1.2.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/turbulence-1.2.4/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/turbulence-1.2.4/template" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/turbulence-1.2.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/turbulence-1.2.4/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/turbulence-1.2.4/template" />
       </excluded>
     </library>
     <library name="twitter-stream (v0.1.16, RVM: ruby-2.6.5) [gem]" type="rubylib">
