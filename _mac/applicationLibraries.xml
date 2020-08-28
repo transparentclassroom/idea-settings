@@ -1710,6 +1710,25 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="flog (v4.6.4, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/flog-4.6.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/flog-4.6.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/flog-4.6.4/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/flog-4.6.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/flog-4.6.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/flog-4.6.4/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/flog-4.6.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/flog-4.6.4/test" />
+      </excluded>
+    </library>
     <library name="forwardable (v1.2.0, RVM: ruby-2.6.5 [global]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -2581,6 +2600,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/kramdown-1.13.2/data" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/kramdown-1.13.2/test" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/kramdown-1.13.2/benchmark" />
+      </excluded>
+    </library>
+    <library name="launchy (v2.4.3, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/launchy-2.4.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/launchy-2.4.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/launchy-2.4.3/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/launchy-2.4.3/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/launchy-2.4.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/launchy-2.4.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/launchy-2.4.3/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/launchy-2.4.3/tasks" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/launchy-2.4.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/launchy-2.4.3/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/launchy-2.4.3/tasks" />
       </excluded>
     </library>
     <library name="liquid (v4.0.0, RVM: ruby-2.6.5) [gem]" type="rubylib">
@@ -3512,6 +3553,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/parser-2.6.5.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/parser-2.6.5.0/doc" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/parser-2.6.5.0/test" />
+      </excluded>
+    </library>
+    <library name="path_expander (v1.1.0, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/path_expander-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/path_expander-1.1.0/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/path_expander-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/path_expander-1.1.0/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/path_expander-1.1.0/test" />
       </excluded>
     </library>
     <library name="pg (v0.20.0, RVM: ruby-2.6.5) [gem]" type="rubylib">
@@ -4542,6 +4599,31 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ruby_http_client-3.3.0/examples" />
       </excluded>
     </library>
+    <library name="ruby_parser (v3.14.2, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ruby_parser-3.14.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ruby_parser-3.14.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ruby_parser-3.14.2/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ruby_parser-3.14.2/tools" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ruby_parser-3.14.2/compare" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ruby_parser-3.14.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ruby_parser-3.14.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ruby_parser-3.14.2/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ruby_parser-3.14.2/tools" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ruby_parser-3.14.2/compare" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ruby_parser-3.14.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ruby_parser-3.14.2/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ruby_parser-3.14.2/tools" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ruby_parser-3.14.2/compare" />
+      </excluded>
+    </library>
     <library name="rubygems-bundler (v1.4.5, RVM: ruby-2.6.5 [global]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -4687,6 +4769,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/sendgrid-ruby-5.3.0/.github" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/sendgrid-ruby-5.3.0/examples" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/sendgrid-ruby-5.3.0/gemfiles" />
+      </excluded>
+    </library>
+    <library name="sexp_processor (v4.15.0, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/sexp_processor-4.15.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/sexp_processor-4.15.0/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/sexp_processor-4.15.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/sexp_processor-4.15.0/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/sexp_processor-4.15.0/test" />
       </excluded>
     </library>
     <library name="shell (v0.7, RVM: ruby-2.6.5 [global]) [gem]" type="rubylib">
@@ -5075,6 +5173,28 @@
       </properties>
       <CLASSES />
       <SOURCES />
+    </library>
+    <library name="turbulence (v1.2.4, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/turbulence-1.2.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/turbulence-1.2.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/turbulence-1.2.4/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/turbulence-1.2.4/template" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/turbulence-1.2.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/turbulence-1.2.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/turbulence-1.2.4/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/turbulence-1.2.4/template" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/turbulence-1.2.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/turbulence-1.2.4/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/turbulence-1.2.4/template" />
+      </excluded>
     </library>
     <library name="twitter-stream (v0.1.16, RVM: ruby-2.6.5) [gem]" type="rubylib">
       <properties>
