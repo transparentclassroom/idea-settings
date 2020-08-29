@@ -10,6 +10,7 @@
       <mapping pattern="dig_into_lessons" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern="boom" type="PLAIN_TEXT" />
+      <mapping pattern="run" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="tell_slack" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />

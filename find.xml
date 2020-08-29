@@ -28,8 +28,8 @@
     <mask>*_spec.js*</mask>
     <mask>*.jsx</mask>
     <mask>*.js</mask>
-    <mask>*.rb</mask>
     <mask>*.scss</mask>
     <mask>*.erb</mask>
+    <mask>*.rb</mask>
   </component>
 </application>
