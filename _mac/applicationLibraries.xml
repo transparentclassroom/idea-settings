@@ -3210,11 +3210,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/bcrypt/3.1.16" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/bcrypt-3.1.16/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/bcrypt-3.1.16/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/bcrypt-3.1.16/spec" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/bcrypt/3.1.16" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/bcrypt-3.1.16/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/bcrypt-3.1.16/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/bcrypt-3.1.16/spec" />
@@ -4217,6 +4219,27 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/devise_invitable-1.7.4/test" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/devise_invitable-1.7.4/config" />
+      </excluded>
+    </library>
+    <library name="devise_invitable (v2.0.2, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/devise_invitable-2.0.2/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/devise_invitable-2.0.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/devise_invitable-2.0.2/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/devise_invitable-2.0.2/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/devise_invitable-2.0.2/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/devise_invitable-2.0.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/devise_invitable-2.0.2/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/devise_invitable-2.0.2/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/devise_invitable-2.0.2/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/devise_invitable-2.0.2/config" />
       </excluded>
     </library>
     <library name="did_you_mean (v1.3.0, RVM: ruby-2.6.5 [global]) [gem]" type="rubylib">
