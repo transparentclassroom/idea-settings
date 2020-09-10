@@ -561,6 +561,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/bundler/gems/ancestry-c91c19929d5b/gemfiles" />
       </excluded>
     </library>
+    <library name="ancestry (v3.1.0, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ancestry-3.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/ancestry-3.1.0/lib" />
+      </SOURCES>
+    </library>
     <library name="ancestry (v3.1.0@8e9735, RVM: ruby-2.6.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
