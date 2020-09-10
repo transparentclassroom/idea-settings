@@ -163,6 +163,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/activesupport-5.2.3/lib" />
       </SOURCES>
     </library>
+    <library name="activesupport (v5.2.4.3, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/activesupport-5.2.4.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/activesupport-5.2.4.3/lib" />
+      </SOURCES>
+    </library>
     <library name="acts_as_list (v0.9.19, RVM: ruby-2.6.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -525,6 +536,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/builder-3.2.3/doc" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/builder-3.2.3/test" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/builder-3.2.3/rakelib" />
+      </excluded>
+    </library>
+    <library name="builder (v3.2.4, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/builder-3.2.4/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/builder-3.2.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/builder-3.2.4/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/builder-3.2.4/rakelib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/builder-3.2.4/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/builder-3.2.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/builder-3.2.4/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/builder-3.2.4/rakelib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/builder-3.2.4/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/builder-3.2.4/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/builder-3.2.4/rakelib" />
       </excluded>
     </library>
     <library name="bundler (v1.17.3, RVM: ruby-2.4.1 [global]) [gem]" type="rubylib">
@@ -916,6 +949,23 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/concurrent-ruby-1.1.6/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/concurrent-ruby-1.1.6/lib" />
+      </excluded>
+    </library>
+    <library name="concurrent-ruby (v1.1.7, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/concurrent-ruby-1.1.7/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/concurrent-ruby-1.1.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/concurrent-ruby-1.1.7/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/concurrent-ruby-1.1.7/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/concurrent-ruby-1.1.7/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/concurrent-ruby-1.1.7/lib" />
       </excluded>
     </library>
     <library name="connection_pool (v2.2.2, RVM: ruby-2.6.5) [gem]" type="rubylib">
@@ -1498,6 +1548,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/erubi-1.8.0/test" />
+      </excluded>
+    </library>
+    <library name="erubi (v1.9.0, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/erubi-1.9.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/erubi-1.9.0/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/erubi-1.9.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/erubi-1.9.0/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/erubi-1.9.0/test" />
       </excluded>
     </library>
     <library name="erubis (v2.7.0, RVM: ruby-2.6.5) [gem]" type="rubylib">
@@ -3507,6 +3573,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/minitest-5.14.0/test" />
       </excluded>
     </library>
+    <library name="minitest (v5.14.2, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/minitest-5.14.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/minitest-5.14.2/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/minitest-5.14.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/minitest-5.14.2/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/minitest-5.14.2/test" />
+      </excluded>
+    </library>
     <library name="moneta (v1.0.0, RVM: ruby-2.6.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -4900,6 +4982,31 @@
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.5/lib/ruby/gems/2.6.0/gems/rake-12.3.2/bin" />
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.5/lib/ruby/gems/2.6.0/gems/rake-12.3.2/doc" />
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.5/lib/ruby/gems/2.6.0/gems/rake-12.3.2/exe" />
+      </excluded>
+    </library>
+    <library name="rake (v13.0.1, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/rake-13.0.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/rake-13.0.1/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/rake-13.0.1/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/rake-13.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/rake-13.0.1/.github" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/rake-13.0.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/rake-13.0.1/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/rake-13.0.1/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/rake-13.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/rake-13.0.1/.github" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/rake-13.0.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/rake-13.0.1/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/rake-13.0.1/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/rake-13.0.1/.github" />
       </excluded>
     </library>
     <library name="rdoc (v5.0.0, RVM: ruby-2.4.1 [global]) [gem]" type="rubylib">
