@@ -1348,24 +1348,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/delocalize-1.1.0/test" />
       </excluded>
     </library>
-    <library name="devise (v4.6.2, RVM: ruby-2.6.5) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/devise-4.6.2/app" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/devise-4.6.2/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/devise-4.6.2/config" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/devise-4.6.2/app" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/devise-4.6.2/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/devise-4.6.2/config" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/devise-4.6.2/config" />
-      </excluded>
-    </library>
     <library name="devise (v4.7.2, RVM: ruby-2.6.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
