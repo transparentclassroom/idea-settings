@@ -4184,6 +4184,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/omniauth-facebook-4.0.0/example" />
       </excluded>
     </library>
+    <library name="omniauth-facebook (v7.0.0, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/omniauth-facebook-7.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/omniauth-facebook-7.0.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/omniauth-facebook-7.0.0/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/omniauth-facebook-7.0.0/example" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/omniauth-facebook-7.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/omniauth-facebook-7.0.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/omniauth-facebook-7.0.0/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/omniauth-facebook-7.0.0/example" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/omniauth-facebook-7.0.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/omniauth-facebook-7.0.0/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/omniauth-facebook-7.0.0/example" />
+      </excluded>
+    </library>
     <library name="omniauth-google-oauth2 (v0.4.1, RVM: ruby-2.6.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -4201,6 +4223,25 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/omniauth-google-oauth2-0.4.1/spec" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/omniauth-google-oauth2-0.4.1/examples" />
+      </excluded>
+    </library>
+    <library name="omniauth-google-oauth2 (v0.5.4, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/omniauth-google-oauth2-0.5.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/omniauth-google-oauth2-0.5.4/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/omniauth-google-oauth2-0.5.4/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/omniauth-google-oauth2-0.5.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/omniauth-google-oauth2-0.5.4/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/omniauth-google-oauth2-0.5.4/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/omniauth-google-oauth2-0.5.4/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/omniauth-google-oauth2-0.5.4/examples" />
       </excluded>
     </library>
     <library name="omniauth-google-oauth2 (v0.8.0, RVM: ruby-2.6.5) [gem]" type="rubylib">
@@ -4252,6 +4293,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/omniauth-oauth2-1.6.0/spec" />
+      </excluded>
+    </library>
+    <library name="omniauth-oauth2 (v1.7.0, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/omniauth-oauth2-1.7.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/omniauth-oauth2-1.7.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/omniauth-oauth2-1.7.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/omniauth-oauth2-1.7.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/omniauth-oauth2-1.7.0/spec" />
       </excluded>
     </library>
     <library name="openssl (v2.0.3, RVM: ruby-2.4.1 [global]) [gem]" type="rubylib">
