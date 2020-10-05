@@ -5028,6 +5028,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/paper_trail-10.3.1/lib" />
       </SOURCES>
     </library>
+    <library name="paper_trail (v11.0.0, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/paper_trail-11.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/paper_trail-11.0.0/lib" />
+      </SOURCES>
+    </library>
     <library name="paper_trail (v9.2.0, RVM: ruby-2.6.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
