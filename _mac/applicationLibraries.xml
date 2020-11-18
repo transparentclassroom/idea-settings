@@ -7566,6 +7566,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/timeliness-0.4.4/spec" />
       </excluded>
     </library>
+    <library name="timeliness-i18n (v0.10.0, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/timeliness-i18n-0.10.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/timeliness-i18n-0.10.0/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/timeliness-i18n-0.10.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/timeliness-i18n-0.10.0/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/timeliness-i18n-0.10.0/config" />
+      </excluded>
+    </library>
     <library name="TimezoneParser (v0.2.0, RVM: ruby-2.6.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
