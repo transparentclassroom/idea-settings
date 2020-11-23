@@ -7334,6 +7334,36 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/nio4r-2.5.3/examples" />
       </excluded>
     </library>
+    <library name="nio4r (v2.5.4, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/nio4r/2.5.4" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/nio4r-2.5.4/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/nio4r-2.5.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/nio4r-2.5.4/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/nio4r-2.5.4/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/nio4r-2.5.4/rakelib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/nio4r-2.5.4/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/nio4r/2.5.4" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/nio4r-2.5.4/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/nio4r-2.5.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/nio4r-2.5.4/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/nio4r-2.5.4/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/nio4r-2.5.4/rakelib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/nio4r-2.5.4/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/nio4r-2.5.4/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/nio4r-2.5.4/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/nio4r-2.5.4/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/nio4r-2.5.4/rakelib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/nio4r-2.5.4/examples" />
+      </excluded>
+    </library>
     <library name="nokogiri (v1.10.10, RVM: ruby-2.6.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -9919,6 +9949,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/sprockets-rails-3.2.1/lib" />
       </SOURCES>
     </library>
+    <library name="sprockets-rails (v3.2.2, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/sprockets-rails-3.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/sprockets-rails-3.2.2/lib" />
+      </SOURCES>
+    </library>
     <library name="statsd-ruby (v1.4.0, RVM: ruby-2.6.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -10173,6 +10214,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/tilt-2.0.9/test" />
       </excluded>
     </library>
+    <library name="timeliness (v0.4.4, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/timeliness-0.4.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/timeliness-0.4.4/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/timeliness-0.4.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/timeliness-0.4.4/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/timeliness-0.4.4/spec" />
+      </excluded>
+    </library>
     <library name="TimezoneParser (v0.2.0, RVM: ruby-2.6.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -10393,6 +10450,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/tzinfo-1.2.7/test" />
       </excluded>
     </library>
+    <library name="tzinfo (v1.2.8, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/tzinfo-1.2.8/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/tzinfo-1.2.8/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/tzinfo-1.2.8/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/tzinfo-1.2.8/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/tzinfo-1.2.8/test" />
+      </excluded>
+    </library>
     <library name="uber (v0.1.0, RVM: ruby-2.6.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -10509,6 +10582,25 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/unicode-display_width-1.7.0/data" />
+      </excluded>
+    </library>
+    <library name="validates_timeliness (v4.1.1, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/validates_timeliness-4.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/validates_timeliness-4.1.1/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/validates_timeliness-4.1.1/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/validates_timeliness-4.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/validates_timeliness-4.1.1/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/validates_timeliness-4.1.1/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/validates_timeliness-4.1.1/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/validates_timeliness-4.1.1/gemfiles" />
       </excluded>
     </library>
     <library name="warden (v1.2.8, RVM: ruby-2.6.5) [gem]" type="rubylib">
