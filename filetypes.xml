@@ -1,13 +1,13 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="boom" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="pull_db" type="PLAIN_TEXT" />
       <mapping pattern="backup_store2" type="PLAIN_TEXT" />
-      <mapping pattern="dig_into_lessons" type="PLAIN_TEXT" />
       <mapping pattern="run" type="PLAIN_TEXT" />
+      <mapping pattern="dig_into_lessons" type="PLAIN_TEXT" />
       <mapping pattern="branchify" type="PLAIN_TEXT" />
       <mapping pattern=".tsconfig" type="PLAIN_TEXT" />
       <mapping pattern="tell_slack" type="PLAIN_TEXT" />
