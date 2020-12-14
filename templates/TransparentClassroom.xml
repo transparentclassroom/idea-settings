@@ -433,4 +433,30 @@
       <option name="RHTML" value="true" />
     </context>
   </template>
+  <template name="fp" value="($FOO$) =&gt; ($END$)" description="JS: arrow function" toReformat="false" toShortenFQNames="true">
+    <variable name="FOO" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="fb" value="($FOO$) =&gt; {$END$}" description="arrow function braces" toReformat="false" toShortenFQNames="true">
+    <variable name="FOO" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="f" value="($FOO$) =&gt; $END$" description="arrow function" toReformat="false" toShortenFQNames="true">
+    <variable name="FOO" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="wr" value="const w = wrap($END$)" description="Jest: wrap enzyme" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
 </templateSet>
