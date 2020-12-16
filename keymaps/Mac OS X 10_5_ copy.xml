@@ -80,6 +80,9 @@
   <action id="Macro.Add comma at line end">
     <keyboard-shortcut first-keystroke="shift meta comma" />
   </action>
+  <action id="Macro.Open spec file">
+    <keyboard-shortcut first-keystroke="ctrl meta t" />
+  </action>
   <action id="Macro.Pad with spaces">
     <keyboard-shortcut first-keystroke="shift meta space" />
   </action>
