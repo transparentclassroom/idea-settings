@@ -8,5 +8,11 @@
       <action id="EditorLineEnd" />
       <typing text-keycode="44:0">,</typing>
     </macro>
+    <macro name="Open spec file">
+      <action id="GotoTest" />
+      <action id="MoveEditorToOppositeTabGroup" />
+      <action id="Switcher" />
+      <action id="NextSplitter" />
+    </macro>
   </component>
 </application>
