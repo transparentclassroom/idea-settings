@@ -5,8 +5,6 @@
       <option name="TAB_SIZE" value="2" />
     </value>
   </option>
-  <option name="HTML_SPACE_INSIDE_EMPTY_TAG" value="true" />
-  <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="html,body" />
   <option name="SOFT_MARGINS" value="120" />
   <HTMLCodeStyleSettings>
     <option name="HTML_ATTRIBUTE_WRAP" value="4" />
@@ -31,6 +29,9 @@
   <MarkdownNavigatorCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>
+  <Ruby>
+    <option name="CHAIN_CALLS_ALIGNMENT" value="0" />
+  </Ruby>
   <TypeScriptCodeStyleSettings version="0">
     <option name="USE_SEMICOLON_AFTER_STATEMENT" value="false" />
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
@@ -93,22 +94,11 @@
   <codeStyleSettings language="Markdown">
     <option name="WRAP_ON_TYPING" value="0" />
   </codeStyleSettings>
-  <codeStyleSettings language="RHTML">
-    <indentOptions>
-      <option name="CONTINUATION_INDENT_SIZE" value="2" />
-    </indentOptions>
-  </codeStyleSettings>
   <codeStyleSettings language="TypeScript">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
       <option name="TAB_SIZE" value="2" />
-    </indentOptions>
-  </codeStyleSettings>
-  <codeStyleSettings language="ruby">
-    <option name="SPACE_WITHIN_BRACES" value="true" />
-    <indentOptions>
-      <option name="CONTINUATION_INDENT_SIZE" value="2" />
     </indentOptions>
   </codeStyleSettings>
 </code_scheme>
