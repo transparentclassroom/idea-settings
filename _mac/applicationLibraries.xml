@@ -1215,22 +1215,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/debase-0.2.4.1/test" />
       </excluded>
     </library>
-    <library name="debase (v2.3.2, RVM: ruby-2.6.6) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/debase-2.3.2/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/debase-2.3.2/exto" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/debase-2.3.2/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/debase-2.3.2/exto" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/debase-2.3.2/exto" />
-      </excluded>
-    </library>
     <library name="debase-ruby_core_source (v0.10.12, RVM: ruby-2.6.6) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1749,6 +1733,25 @@
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.6/lib/ruby/gems/2.6.0/gems/executable-hooks-1.6.1/test-tf" />
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.6/lib/ruby/gems/2.6.0/gems/executable-hooks-1.6.1/test-tf-bundle" />
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.6/lib/ruby/gems/2.6.0/gems/executable-hooks-1.6.1/test-tf-truffleruby" />
+      </excluded>
+    </library>
+    <library name="exponent-server-sdk (v0.0.7@516be5, RVM: ruby-2.6.6) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/bundler/gems/expo-server-sdk-ruby-516be5a7247d/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/bundler/gems/expo-server-sdk-ruby-516be5a7247d/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/bundler/gems/expo-server-sdk-ruby-516be5a7247d/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/bundler/gems/expo-server-sdk-ruby-516be5a7247d/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/bundler/gems/expo-server-sdk-ruby-516be5a7247d/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/bundler/gems/expo-server-sdk-ruby-516be5a7247d/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/bundler/gems/expo-server-sdk-ruby-516be5a7247d/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/bundler/gems/expo-server-sdk-ruby-516be5a7247d/test" />
       </excluded>
     </library>
     <library name="exponent-server-sdk (v0.0.7@516be5, RVM: ruby-2.6.6) [gem]" type="rubylib">
@@ -3031,6 +3034,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.6/lib/ruby/gems/2.6.0/gems/minitest-5.11.3/test" />
+      </excluded>
+    </library>
+    <library name="minitest (v5.14.2, RVM: ruby-2.6.6) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/minitest-5.14.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/minitest-5.14.2/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/minitest-5.14.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/minitest-5.14.2/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/minitest-5.14.2/test" />
       </excluded>
     </library>
     <library name="minitest (v5.14.2, RVM: ruby-2.6.6) [gem]" type="rubylib">
@@ -4752,22 +4771,6 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/ruby-debug-ide-0.7.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/ruby-debug-ide-0.7.0/ext" />
-      </excluded>
-    </library>
-    <library name="ruby-debug-ide (v2.3.1, RVM: ruby-2.6.6) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/ruby-debug-ide-2.3.1/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/ruby-debug-ide-2.3.1/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/ruby-debug-ide-2.3.1/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/ruby-debug-ide-2.3.1/lib" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/ruby-debug-ide-2.3.1/bin" />
       </excluded>
     </library>
     <library name="ruby-progressbar (v1.10.1, RVM: ruby-2.6.6) [gem]" type="rubylib">
