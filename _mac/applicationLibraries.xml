@@ -1890,6 +1890,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/exponent-server-sdk-0.1.0/examples" />
       </excluded>
     </library>
+    <library name="factory_bot (v6.2.0, RVM: ruby-2.6.6) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/factory_bot-6.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/factory_bot-6.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="factory_bot_rails (v6.2.0, RVM: ruby-2.6.6) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/factory_bot_rails-6.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/factory_bot_rails-6.2.0/lib" />
+      </SOURCES>
+    </library>
     <library name="fake_s3 (v0.10.0@bcda3d, RVM: ruby-2.6.6) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
